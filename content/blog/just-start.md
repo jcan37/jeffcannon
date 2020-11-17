@@ -2,10 +2,7 @@
 path: just-start
 date: 2020-11-16T22:18:13.592Z
 title: Just start
-description: This past summer, I experimented with starting a blog. My goal was
-  to write one piece per week for 12 weeks. What I ended up with is half that
-  output and a decision that blogging often wasn’t for me. I am now deciding to
-  blog daily. So what gives?...
+description: Just start
 ---
 This past summer, I experimented with starting a blog. My goal was to write one piece per week for 12 weeks. What I ended up with is half that output and a decision that blogging often wasn’t for me. I am now deciding to blog daily. So what gives?
 
