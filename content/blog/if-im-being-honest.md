@@ -1,5 +1,5 @@
 ---
-path: being-honest
+path: if-im-being-honest
 date: 2020-11-17T22:29:48.912Z
 title: If I'm being honest
 description: I'm committing to this practice because I think it will be fun to
