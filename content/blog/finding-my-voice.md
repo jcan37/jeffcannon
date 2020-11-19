@@ -2,10 +2,10 @@
 path: finding-my-voice
 date: 2020-11-19T03:28:46.179Z
 title: Finding my voice
-description: I'm a hack. At least for right now. Go to Seth Godin's
-  [blog](seths.blog) and see for yourself. These words are mine but the style is
-  his. It makes sense considering Seth Godin's book is what inspired me to start
-  blogging a few days ago.
+description: I'm a hack. At least for right now. Go to Seth Godin's blog and see
+  for yourself. These words are mine but the style is his. It makes sense
+  considering Seth Godin's book is what inspired me to start blogging a few days
+  ago.
 ---
 I'm a hack. At least for right now. Go to Seth Godin's [blog](seths.blog) and see for yourself. These words are mine but the style is his. It makes sense considering Seth Godin's book is what inspired me to start blogging a few days ago.
 
