@@ -2,7 +2,11 @@
 path: being-honest
 date: 2020-11-17T22:29:48.912Z
 title: If I'm being honest
-description: If I'm being honest
+description: I'm committing to this practice because I think it will be fun to
+  have a record of my mental state when I become as successful as I imagine I
+  might be some day. It's amazing to think that most people probably feel this
+  way — that they're destined for great things. At least, I suspect that to be
+  the case with most people.
 ---
 I'm committing to this practice because I think it will be fun to have a record of my mental state when I become as successful as I imagine I might be some day. It's amazing to think that most people probably feel this way — that they're destined for great things. At least, I suspect that to be the case with most people. 
 
