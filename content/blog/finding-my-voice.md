@@ -15,4 +15,4 @@ One thing I'm struggling with is how I can give value to you as the reader. This
 * Graphic design - I'm self-taught but I design my own websites and apps. I could also offer the unique perspective of a developer who designs their own UI/UX.
 * Self improvement - I listen to so many podcasts and read a lot of books on this topic. I most likely won't contribute anything new but maybe it will be new to you.
 
-This blog is going to be a bit all over the place until I discover my own voice. I have no idea when it will happen but I will continue to write everyday until I do. Luckily, I have no audience right now. So I have time to figure it out. If you are reading this, you are likely from the future. Greetings from 2020.
+This blog is going to be a bit all over the place until I discover my own voice. I have no idea when it will happen but I will continue to write everyday until I do. Luckily, I have no audience right now so I have time to figure it out. If you are reading this, you are likely from the future. Greetings from 2020.
