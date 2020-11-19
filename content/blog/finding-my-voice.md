@@ -1,6 +1,6 @@
 ---
 path: finding-my-voice
-date: 2020-11-18T03:28:46.179Z
+date: 2020-11-19T03:28:46.179Z
 title: Finding my voice
 description: I'm a hack. At least for right now. Go to Seth Godin's blog and see
   for yourself. These words are mine but the style is his. It makes sense
