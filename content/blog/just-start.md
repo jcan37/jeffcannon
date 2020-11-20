@@ -9,7 +9,7 @@ description: This past summer, I experimented with starting a blog. My goal was
 ---
 This past summer, I experimented with starting a blog. My goal was to write one piece per week for 12 weeks. What I ended up with is half that output and a decision that blogging often wasn’t for me. I am now deciding to blog daily. So what gives?
 
-I’m currently reading *The Practice* by Seth Godin — a book about shipping creative work. Section 28 titled “Toward a Daily Practice in Service of Your Identity” has this paragraph that has inspired me:
+I’m currently reading *The Practice* by Seth Godin—a book about shipping creative work. Section 28 titled “Toward a Daily Practice in Service of Your Identity” has this paragraph that has inspired me:
 
 > Blog every day. It’s easy, it’s free, and it establishes your identity long before the market cares about who you are and what you do.
 
