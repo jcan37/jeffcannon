@@ -3,7 +3,7 @@ path: intermittent-fasting-is-dumb
 date: 2020-11-25T14:43:05.938Z
 title: Intermittent fasting is dumb
 description: When losing weight, meal frequency and timing doesn't matter. Okay,
-  that's probably not *totally* true. It might matter slightly but it should not
+  that's probably not totally true. It might matter slightly but it should not
   be the main mechanism for your fat loss. Because unless you're eating less
   calories, it is not going to do shit.
 ---
