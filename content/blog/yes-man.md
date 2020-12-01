@@ -4,7 +4,7 @@ date: 2020-12-01T17:43:01.282Z
 title: Yes Man
 description: For a period of my life, I thought having a propensity to say yes
   to everything was a virtue. I thought it indicated I was open-minded. Like Jim
-  Carrey's character in *Yes Man*, I was going to live a life of excitement
+  Carrey's character in Yes Man, I was going to live a life of excitement
   because I was open to saying yes to every opportunity.
 ---
 For a period of my life, I thought having a propensity to say yes to everything was a virtue. I thought it indicated I was open-minded. Like Jim Carrey's character in *Yes Man*, I was going to live a life of excitement because I was open to saying yes to every opportunity. 
