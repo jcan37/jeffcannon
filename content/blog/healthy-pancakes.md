@@ -1,7 +1,7 @@
 ---
 path: healthy-pancakes
 date: 2020-11-23T19:15:31.846Z
-title: Healthy Pancakes
+title: Healthy pancakes
 description: To make healthy pancakes, you need...
 ---
 To make healthy pancakes, you need:
