@@ -1,6 +1,6 @@
 ---
 path: start-with-trust
-date: 2020-12-04T02:15:26.649Z
+date: 2020-12-03T12:15:26.649Z
 title: Start with trust
 description: Do you trust others? What about someone you just met? People
   generally fall into one of two camps with regards to trust...
