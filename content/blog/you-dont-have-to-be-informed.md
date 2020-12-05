@@ -1,6 +1,6 @@
 ---
 path: you-dont-have-to-be-informed
-date: 2020-12-05T02:25:01.448Z
+date: 2020-12-04T12:25:01.448Z
 title: You don't have to be informed
 description: I am of the opinion that you shouldn't allow yourself to be exposed
   to certain ideas. I used to believe that the intelligent individual is one who
