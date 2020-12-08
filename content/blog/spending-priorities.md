@@ -6,9 +6,9 @@ description: I find people's spending priorities peculiar...
 ---
 I find people's spending priorities peculiar.
 
-People will pay $50 to be a member of a gym that's packed and inconveniently far away from their house instead of $100 for the gym that's near them and has more amenities. That same person will also have no problem spending the difference they saved making that decision on a night out drinking.
+People will pay $50 a month to be a member of a gym that's packed and inconveniently far away from their house instead of $100 for the gym that's near them and has more amenities. That same person will also have no problem spending the difference they saved making that decision on a night out drinking.
 
-You may think health and happiness are important to you but what does your spending reveal about your priorities?
+You may consider health and happiness important, but what does your spending reveal about your priorities?
 
 I have some ideas for better spending habits.
 
