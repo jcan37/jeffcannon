@@ -1,6 +1,6 @@
 ---
 path: strength-training-is-necessary
-date: 2020-12-08T01:17:10.024Z
+date: 2020-12-07T12:17:10.024Z
 title: Strength training is necessary
 description: Whether you are losing, gaining, or maintaining weight, a strength
   training routine is necessary to keep your body in shape. It is obvious when
