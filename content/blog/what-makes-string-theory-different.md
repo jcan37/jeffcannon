@@ -17,4 +17,4 @@ String Theory isn’t a faceless company. Our stringers are proudly promoted on 
 
 **At your fingertips**
 
-Our storefront is only online and built for the future. Book your string theorist with ease through your mobile or desktop computer and sit back as we take care of the rest.
+Our storefront is online and built for the future. Book your string theorist with ease through your mobile or desktop computer and sit back as we take care of the rest.
