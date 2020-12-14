@@ -16,3 +16,5 @@ This is not due to the amount of calories burned through lifting weights. Streng
 If you do not strength train when losing weight, you will lose muscle. And losing muscle is very bad for your fat loss. Muscle mass burns a lot of calories. As you lose muscle, the total calories you need to eat in a day to maintain your weight will decrease. In order to keep losing weight at this decreased calorie limit, you will have to reduce your calories even more. Which further causes you to lose more muscle and this cycle repeats until you're a weak, starving sack of potatoes. 
 
 Therefore, while cardio is good to incorporate into your fitness routine for a healthy heart and to burn extra calories, the primary focus of your physical exercise routine should be strength training.
+
+\- Orlando, FL
