@@ -13,8 +13,8 @@ In the movie, the main characters are stuck in a creepy suburbia named Yonder an
 
 > I kinda felt like I was home. Because of you, I'm home right now.
 
-After his death, the child they raised returns home with a box. In the box, is a body bag. He puts Tom in it, vacuum seals it, and throws his body into the hole he dug.
+After his death, the child they raised returns home with a box. In the box, there is a body bag. He puts Tom in it, vacuum seals it, and throws his body into the hole he dug.
 
 For me, this was a good reminder that no matter what I'm making progress on in life, I am essentially just like Tom's character digging the hole. Maybe my hole will be deeper or shallower than others but in the end, it doesn't matter. 
 
-I hope that doesn't seem bleak. Because I actually think this is a positive realization. Making progress on something feels good and it can be fun. It's just important to remember to spend time with the people you love and not to take all of this too seriously.
+I hope that doesn't seem bleak. Because I actually think that this is a positive realization. Making progress on something feels good and it can be fun. It's just important to remember to spend time with the people you love and not to take all of this too seriously.
