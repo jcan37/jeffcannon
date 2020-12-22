@@ -1,14 +1,30 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Jeff's Blog`,
+    title: `Jeff Cannon`,
     author: `Jeff Cannon`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `Jeff Cannon's personal site & blog.`,
+    email: `hi@jeffcannon.dev`,
     siteUrl: `https://jeffcannon.dev`,
     social: {
       instagram: `jcan37`,
+      linkedin: `jeffrey-cannon-53921486`,
       twitter: `jcannon37`,
     },
+    jobTitles: [
+      'Armchair Expert',
+      'Ayahuasca Cult Leader',
+      'Bachelorette Party Clown',
+      'Backseat Driver',
+      'Cactus Massage Therapist',
+      'Cat Stair Architect',
+      'Gimp Suit Model',
+      'Hand Soap Taste Tester',
+      'Jellyfish Chiropractor',
+      'Jollycat Fan Club President',
+      'Monday Morning Quarterback',
+      'Walking Dead Zombie Extra',
+    ],
   },
   plugins: [
     `gatsby-plugin-netlify-cms`,
@@ -115,11 +131,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Jeff Cannon`,
+        short_name: `Jeff Cannon`,
         start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        background_color: `#252525`,
+        theme_color: `#f9f9f9`,
         display: `minimal-ui`,
         // edit below
         icon: `content/assets/gatsby-icon.png`,

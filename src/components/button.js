@@ -1,32 +1,33 @@
-import React from "react"
-import styled from "styled-components"
+import React from 'react'
+import styled from 'styled-components'
 
-const Button = props => (
-  <ButtonWrapper props={props}>{props.children}</ButtonWrapper>
-)
+export default function Button(props) {
+  return <ButtonWrapper props={props}>{props.children}</ButtonWrapper>
+}
 
 const ButtonWrapper = styled.button`
-  display: block;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 48px;
+  padding: 0 24px;
   border: none;
-  text-align: center;
-  box-sizing: border-box;
+  outline: none;
   text-decoration: none;
-  padding: 10px 25px;
   cursor: pointer;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-
-  background: ${props => props.props.background || "black"};
-  color: ${props => props.props.color || "rgb(255, 255, 255)"};
-  font-size: ${props => props.props.fontSize || "15px"};
-  font-weight: ${props => props.props.fontWeight || "600"};
-  border-radius: ${props => props.props.radius || "6px"};
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  transform: scale(1);
+  transition: transform 0.1s;
+  font-family: 'Nunito Sans', sans-serif;
+  background: ${props => props.props.background || `linear-gradient(#fff, #ddd)`};
+  color: ${props => props.props.color || `#252525`};
+  font-size: ${props => props.props.fontSize || `14px`};
+  font-weight: ${props => props.props.fontWeight || `700`};
+  border-radius: ${props => props.props.radius || `12px`};
   margin-top: ${props => props.props.marginTop};
   margin-bottom: ${props => props.props.marginBottom};
-
-  &:hover {
-    box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.25);
+  &:hover, &:active {
+    transform: scale(1.05);
+    box-shadow: 0 6px 8px rgba(0,0,0,0.5);
   }
 `
-
-export default Button

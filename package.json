@@ -1,16 +1,18 @@
 {
-  "name": "gatsby-personal-starter-blog",
+  "name": "jeffcannon",
   "private": true,
-  "description": "A personal blog starter for a blog powered by Netlify CMS, based on the default blog starter",
-  "version": "2.0.0",
-  "author": "Thomas Wang <thomas@wang.sh>",
+  "description": "Jeff Cannon's personal site & blog",
+  "version": "3.0.0",
+  "author": "Jeff Cannon <hi@jeffcannon.dev>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/jcan37/jeffcannon/issues"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
     "babel-plugin-styled-components": "^1.10.0",
+    "fontsource-alegreya": "^3.1.5",
+    "fontsource-nunito-sans": "^3.1.5",
     "gatsby": "^2.24.47",
     "gatsby-image": "^2.0.39",
     "gatsby-plugin-feed-mdx": "^1.0.0",
@@ -40,8 +42,6 @@
     "react-typography": "^0.16.19",
     "react-use-flexsearch": "^0.1.1",
     "styled-components": "^4.2.0",
-    "typeface-merriweather": "0.0.72",
-    "typeface-montserrat": "0.0.54",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2016": "^0.16.19"
   },
@@ -50,7 +50,7 @@
     "gatsby-plugin-root-import": "^2.0.5",
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/jcan37/jeffcannon#readme",
   "keywords": [
     "gatsby"
   ],
@@ -58,7 +58,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/jcan37/jeffcannon.git"
   },
   "scripts": {
     "build": "gatsby build",
