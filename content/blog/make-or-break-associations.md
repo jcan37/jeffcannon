@@ -7,7 +7,7 @@ description: Your brain is a prediction machine. It has an amazing ability to
   activities have been associated with one another, performing one action can
   trigger the other...
 ---
-Your brain is a prediction machine.It has an amazing ability to form associations between two unrelated actions. If it recognizes a pattern of activities have been associated with one another, performing one action can trigger the other.
+Your brain is a prediction machine. It has an amazing ability to form associations between two unrelated actions. If it recognizes a pattern of activities have been associated with one another, performing one action can trigger the other.
 
 This mechanism is a double-edged sword. It can make bad habits difficult to break but you can also use it to form good habits.
 
