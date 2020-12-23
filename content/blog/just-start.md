@@ -21,3 +21,5 @@ But if I found it impossible to commit before, how am I going to commit now? Eas
 2. Text only, no GIFs or images
 
 These constraints will save me from perfectionism and make it possible to commit. See you tomorrow.
+
+\- East Northport, NY
