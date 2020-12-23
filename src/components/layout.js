@@ -2,10 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Bio from './bio'
 
-export default function Layout({location, children}) {
-  const headerPaths = ['/', '/blog', '/blog/']
-    .map((path) => `${__PATH_PREFIX__}${path}`)
-  const isPost = !headerPaths.includes(location.pathname)
+export default function Layout({location, isPost, children}) {
   const header = isPost ? <div /> : <Bio />
   const footer = isPost ? <Bio /> : <div />
   return (

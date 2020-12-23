@@ -8,7 +8,7 @@ export default function BlogPostTemplate(props) {
   const post = props.data.mdx;
   const {previous, next} = props.pageContext;
 
-  return <Layout location={props.location}>
+  return <Layout location={props.location} isPost>
     <SEO
       title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
