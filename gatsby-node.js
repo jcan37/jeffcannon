@@ -2,14 +2,7 @@ const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createRedirect, createPage } = actions
-
-  createRedirect({
-    fromPath: '/string',
-    toPath: 'https://stringtheory.us/jeffcanstring',
-    isPermanent: true,
-    force: true
-  })
+  const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
   return graphql(
