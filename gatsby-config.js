@@ -28,6 +28,13 @@ module.exports = {
     ],
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `G-9H1TRX1DTP`,
+        head: true,
+      },
+    },
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
@@ -125,13 +132,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Jeff Cannon`,
@@ -140,7 +140,6 @@ module.exports = {
         background_color: `#252525`,
         theme_color: `#f9f9f9`,
         display: `minimal-ui`,
-        // edit below
         icon: `content/assets/profile-picture.png`,
       },
     },

@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql, Link, StaticQuery } from 'gatsby'
 import Image from 'gatsby-image'
+import { trackCustomEvent } from 'gatsby-plugin-google-analytics'
 import styled from 'styled-components'
 import Button from '../components/button'
 import Layout from '../components/layout'
@@ -183,7 +184,13 @@ const Project = ({logo, description, status, url, background, color}) => <Clicka
   padding: `24px 16px`,
   background: background,
   color: color,
-}} onClick={() => {window.location.href = url}}>
+}} onClick={() => {
+  trackCustomEvent({
+    category: url,
+    action: 'click',
+  })
+  window.location.href = url
+}}>
   <Image fixed={logo} />
   <p style={{
     margin: `16px 0`,
