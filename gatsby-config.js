@@ -17,10 +17,12 @@ module.exports = {
       'Backseat Driver',
       'Cactus Massage Therapist',
       'Cat Stair Architect',
+      'Financial Wizard',
       'Gimp Suit Model',
       'Hand Soap Taste Tester',
       'Jellyfish Chiropractor',
       'Jollycat Fan Club President',
+      'One-trick Pony',
       'Monday Morning Quarterback',
       'Walking Dead Zombie Extra',
     ],
@@ -139,7 +141,7 @@ module.exports = {
         theme_color: `#f9f9f9`,
         display: `minimal-ui`,
         // edit below
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-picture.png`,
       },
     },
     {
