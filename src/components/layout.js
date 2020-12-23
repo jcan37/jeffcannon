@@ -42,8 +42,8 @@ const Content = styled.div`
       width: 192px;
     }
   }
-  @media (max-width: 720px) {
-    padding: 32px 16px;
+  @media (max-width: 720px), (max-height: 480px) {
+    padding: 32px;
     > header, > footer {
       position: relative;
       top: auto;

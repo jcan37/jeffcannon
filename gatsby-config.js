@@ -1,6 +1,5 @@
 module.exports = {
   siteMetadata: {
-    // edit below
     title: `Jeff Cannon`,
     author: `Jeff Cannon`,
     description: `Jeff Cannon's personal site & blog.`,
@@ -51,10 +50,11 @@ module.exports = {
                 fields { slug }
                 excerpt
                 rawBody
+                body
                 frontmatter {
                   title
                   description
-                  date(formatString: "MMMM DD, YYYY")
+                  date(formatString: "MMM DD, YYYY")
                 }
               }
             }
@@ -62,7 +62,7 @@ module.exports = {
         `,
         ref: "id",
         index: ["title", "rawBody"],
-        store: ["id", "slug", "date", "title", "excerpt", "description"],
+        store: ["id", "slug", "date", "title", "excerpt", "description", "body"],
         normalizer: ({ data }) =>
           data.allMdx.nodes.map(node => ({
             id: node.id,
@@ -72,6 +72,7 @@ module.exports = {
             title: node.frontmatter.title,
             description: node.frontmatter.description,
             date: node.frontmatter.date,
+            body: node.body,
           })),
       },
     },

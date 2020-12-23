@@ -1,35 +1,29 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import Button from "../components/button"
-import SearchPosts from "../components/searchPosts"
+import React from 'react'
+import { graphql, Link } from 'gatsby'
+import Button from '../components/button'
+import Layout from '../components/layout'
+import SEO from '../components/seo'
+import SearchPosts from '../components/searchPosts'
 
-class Blog extends React.Component {
-  render() {
-    const { data, navigate, location } = this.props
-    const siteTitle = data.site.siteMetadata.title
-    const posts = data.allMdx.edges
-    const localSearchBlog = data.localSearchBlog
-
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="All posts" />
-        <SearchPosts
-          posts={posts}
-          localSearchBlog={localSearchBlog}
-          navigate={navigate}
-          location={location}
-        />
-        <Link to="/">
-          <Button marginTop="85px">Go Home</Button>
-        </Link>
-      </Layout>
-    )
-  }
+export default function Blog({data, navigate, location}) {
+  return <Layout location={location}>
+    <SEO title="Blog" />
+    <p style={{
+      fontFamily: ['Nunito Sans', 'sans-serif'].join(),
+      fontSize: `14px`,
+      fontWeight: 700,
+      letterSpacing: `2px`,
+    }}>BLOG</p>
+    <SearchPosts
+      posts={data.allMdx.edges}
+      localSearchBlog={data.localSearchBlog}
+      navigate={navigate}
+      location={location} />
+    <Link to="/">
+      <Button marginTop="64px">GO HOME</Button>
+    </Link>
+  </Layout>
 }
-
-export default Blog
 
 export const pageQuery = graphql`
   query {
@@ -46,11 +40,12 @@ export const pageQuery = graphql`
       edges {
         node {
           excerpt
+          body
           fields {
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMM DD, YYYY")
             title
             description
           }

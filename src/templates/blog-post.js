@@ -1,16 +1,14 @@
 import React from 'react'
-import {graphql, Link} from 'gatsby'
-import {MDXRenderer} from 'gatsby-plugin-mdx'
+import { graphql, Link } from 'gatsby'
 import Layout from '../components/layout'
+import Post from '../components/post'
 import SEO from '../components/seo'
-import {rhythm} from '../utils/typography'
 
 export default function BlogPostTemplate(props) {
   const post = props.data.mdx;
-  const siteTitle = props.data.site.siteMetadata.title;
   const {previous, next} = props.pageContext;
 
-  return <Layout location={props.location} title={siteTitle}>
+  return <Layout location={props.location}>
     <SEO
       title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
@@ -19,21 +17,11 @@ export default function BlogPostTemplate(props) {
       fontWeight: 700,
       letterSpacing: `2px`,
     }}>← BLOG</PageLink>
-    <p style={{
-      margin: `${rhythm(1)} 0`,
-      fontFamily: ['Nunito Sans', 'sans-serif'].join(','),
-      fontSize: `14px`,
-      fontWeight: 300,
-      color: `rgba(255,255,255,0.7)`,
-    }}>{post.frontmatter.date}</p>
-    <h1 style={{marginTop: 0}}>{post.frontmatter.title}</h1>
-    <MDXRenderer>{post.body}</MDXRenderer>
-    <hr
-      style={{
-        margin: `${rhythm(2)} 0 ${rhythm(1)}`,
-        background: `#fff`,
-      }}
-    />
+    <Post
+      date={post.frontmatter.date}
+      title={post.frontmatter.title}>
+      {post.body}
+    </Post>
     <ul
       style={{
         display: `flex`,
@@ -83,7 +71,7 @@ export const pageQuery = graphql`
 `
 
 const PageLink = ({children, style, ...props}) => <Link style={{
-  fontFamily: ['Nunito Sans', 'sans-serif'].join(','),
+  fontFamily: ['Nunito Sans', 'sans-serif'].join(),
   fontSize: `14px`,
   fontWeight: 300,
   boxShadow: `none`,

@@ -10,7 +10,7 @@ Wordpress2016.bodyColor = '#fff'
 Wordpress2016.overrideThemeStyles = () => {
   return {
     'h1': {
-      fontFamily: ['Nunito Sans', 'sans-serif'].join(',')
+      fontFamily: ['Nunito Sans', 'sans-serif'].join()
     },
     'blockquote': {
       color: `rgba(255,255,255,0.7)`,

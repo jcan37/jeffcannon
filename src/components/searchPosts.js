@@ -1,110 +1,73 @@
-import React, { useState } from "react"
-import { Link } from "gatsby"
-import styled from "styled-components"
-import { useFlexSearch } from "react-use-flexsearch"
-import * as queryString from "query-string"
-
-import { rhythm } from "../utils/typography"
+import React, { useState } from 'react'
+import styled from 'styled-components'
+import { useFlexSearch } from 'react-use-flexsearch'
+import * as queryString from 'query-string'
+import { rhythm } from '../utils/typography'
+import Post from './post'
 
 const SearchBar = styled.div`
   display: flex;
-  border: 1px solid #dfe1e5;
-  border-radius: 10px;
+  border-radius: 12px;
   margin: 0 auto ${rhythm(1)};
   width: 100%;
   height: 3rem;
-  background: #fdfdfd;
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.2));
+  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
 
   svg {
-    margin: auto 1rem;
+    margin: auto 24px;
     height: 20px;
     width: 20px;
-    color: #9aa0a6;
-    fill: #9aa0a6;
+    color: rgba(255, 255, 255, 0.7);
+    fill: rgba(255, 255, 255, 0.7);
   }
 
   input {
     display: flex;
     flex: 100%;
     height: 100%;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 14px;
     background-color: transparent;
     border: none;
     margin: 0;
-    padding: 0;
-    padding-right: 0.5rem;
-    color: rgb(55, 53, 47);
+    padding: 0 0.5rem 0 0;
+    color: rgba(255, 255, 255, 0.7);
     word-wrap: break-word;
     outline: none;
   }
 `
 
-const SearchedPosts = ({ results }) =>
-  results.length > 0 ? (
-    results.map(node => {
-      const date = node.date
-      const title = node.title || node.slug
-      const description = node.description
-      const excerpt = node.excerpt
-      const slug = node.slug
-
-      return (
-        <div key={slug}>
-          <h3
-            style={{
-              marginBottom: rhythm(1 / 4),
-            }}
-          >
-            <Link style={{ boxShadow: `none` }} to={`/blog${slug}`}>
-              {title}
-            </Link>
-          </h3>
-          <small>{date}</small>
-          <p
-            dangerouslySetInnerHTML={{
-              __html: description || excerpt,
-            }}
-          />
-        </div>
-      )
-    })
-  ) : (
-    <p style={{ textAlign: "center" }}>
-      Sorry, couldn't find any posts matching this search.
-    </p>
+const SearchedPosts = ({results}) =>
+  results.length > 0 ? results.map(node => <Post
+    key={node.slug}
+    slug={node.slug}
+    title={node.title || node.slug}
+    date={node.date}>
+    {node.body}
+  </Post>) : (
+    <p style={{
+      fontFamily: ['Nunito Sans', 'sans-serif'].join(),
+      textAlign: "center"
+    }}>No results found. ¯\_(ツ)_/¯</p>
   )
 
-const AllPosts = ({ posts }) => (
-  <div style={{ margin: "20px 0 40px" }}>
-    {posts.map(({ node }) => {
-      const title = node.frontmatter.title || node.fields.slug
-      return (
-        <div key={node.fields.slug}>
-          <h3
-            style={{
-              marginBottom: rhythm(1 / 4),
-            }}
-          >
-            <Link style={{ boxShadow: `none` }} to={`/blog${node.fields.slug}`}>
-              {title}
-            </Link>
-          </h3>
-          <small>{node.frontmatter.date}</small>
-          <p
-            dangerouslySetInnerHTML={{
-              __html: node.frontmatter.description || node.excerpt,
-            }}
-          />
-        </div>
-      )
+const AllPosts = ({posts}) => (
+  <div>
+    {posts.map(({node}) => {
+      return <Post
+        key={node.fields.slug}
+        slug={node.fields.slug}
+        title={node.frontmatter.title || node.fields.slug}
+        date={node.frontmatter.date}>
+        {node.body}
+      </Post>
     })}
   </div>
 )
 
-const SearchPosts = ({ posts, localSearchBlog, location, navigate }) => {
-  const { search } = queryString.parse(location.search)
+export default function SearchPosts({posts, localSearchBlog, location, navigate}) {
+  const {search} = queryString.parse(location.search)
   const [query, setQuery] = useState(search || "")
 
   const results = useFlexSearch(
@@ -116,13 +79,7 @@ const SearchPosts = ({ posts, localSearchBlog, location, navigate }) => {
   return (
     <>
       <SearchBar>
-        <svg
-          focusable="false"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 24 24"
-        >
-          <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
-        </svg>
+        <SearchIcon />
         <input
           id="search"
           type="search"
@@ -141,4 +98,11 @@ const SearchPosts = ({ posts, localSearchBlog, location, navigate }) => {
   )
 }
 
-export default SearchPosts
+const SearchIcon = () => <svg
+  width="20"
+  height="20"
+  viewBox="0 0 20 20"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg">
+  <path fillRule="evenodd" clipRule="evenodd" d="M2 9C2 5.13401 5.13401 2 9 2C12.866 2 16 5.13401 16 9C16 10.886 15.2541 12.5978 14.0412 13.8566C14.0071 13.8828 13.9742 13.9116 13.9429 13.9429C13.9116 13.9742 13.8828 14.0071 13.8566 14.0412C12.5978 15.2541 10.886 16 9 16C5.13401 16 2 12.866 2 9ZM14.6177 16.0319C13.078 17.2635 11.125 18 9 18C4.02944 18 0 13.9706 0 9C0 4.02944 4.02944 0 9 0C13.9706 0 18 4.02944 18 9C18 11.125 17.2635 13.078 16.0319 14.6177L19.7071 18.2929C20.0977 18.6834 20.0977 19.3166 19.7071 19.7071C19.3166 20.0977 18.6834 20.0977 18.2929 19.7071L14.6177 16.0319Z" fill="currentColor"/>
+</svg>
