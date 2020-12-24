@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql, Link, StaticQuery } from 'gatsby'
+import { graphql, Link, } from 'gatsby'
 import Image from 'gatsby-image'
 import { trackCustomEvent } from 'gatsby-plugin-google-analytics'
 import styled from 'styled-components'
@@ -8,100 +8,96 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 import { ActiveIndicator, ExternalLinkIcon, FutureIndicator, IdleIndicator, PastIndicator } from '../components/svg'
 
-export default function Home({location}) {
-  return <StaticQuery
-    query={homeQuery}
-    render={data => {
-      const sansFontFamily = ['Nunito Sans', 'sans-serif'].join()
-      const subHeadStyle = {
-        margin: 0,
-        fontFamily: sansFontFamily,
-        fontSize: `18px`,
-        fontWeight: 800,
-        boxShadow: `none`,
-      }
-      const dateStyle = {
-        margin: `8px 0 0`,
-        fontFamily: sansFontFamily,
-        fontSize: `12px`,
-        fontWeight: 300,
-        color: `rgba(255,255,255,0.7)`,
-      }
-      const posts = data.allMdx.edges.map(edge => edge.node)
-      const headlinePost = posts[0]
-      const projects = [
-        {
-          logo: data.stringTheory.childImageSharp.fixed,
-          description: `The best marketplace for your lacrosse stringing needs. Choose from highly reviewed stringers and get your stick strung exactly the way you like it everytime.`,
-          status: `active`,
-          url: `https://stringtheory.us/`,
-          background: `linear-gradient(#fda50f, #ff7417)`,
-          color: `#252525`,
-        },
-        {
-          logo: data.palooza.childImageSharp.fixed,
-          description: `Create a party and invite your friends to join and add music. A much more collaborative way to enjoy music with friends. Share the party.`,
-          status: `idle`,
-          url: `https://www.palooza.io/`,
-          background: `linear-gradient(#000, #111)`,
-          color: `#fff`,
-        },
-      ]
-      return <Layout location={location}>
-        <SEO
-          title="Home"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-        <Header>PROJECTS</Header>
-        <Row>
-          <Project {...projects[0]} />
-          <Spacer />
-          <Project {...projects[1]} />
-          <Spacer />
-        </Row>
-        <Spacer />
-        <Header>BLOG</Header>
-        <Row>
-          <Column>
-            <h1 style={{margin: 0}}>
-              {headlinePost.frontmatter.title || headlinePost.fields.slug}
-            </h1>
-            <Snippet style={{margin: `16px 0`}}>
-              {headlinePost.frontmatter.description || headlinePost.excerpt}
-            </Snippet>
-            <div style={dateStyle}>
-              <Link to={`/blog${headlinePost.fields.slug}`} style={{
-                boxShadow: `none`,
-              }}>Read More</Link>
-              <span style={{margin: `0 8px`}}>·</span>
-              <span>{headlinePost.frontmatter.date}</span>
-            </div>
-          </Column>
-          <Spacer />
-          <Column>
-            <Link
-              to={`/blog${posts[1].fields.slug}`}
-              style={subHeadStyle}>
-              {posts[1].frontmatter.title || posts[1].excerpt}
-            </Link>
-            <p style={dateStyle}>{posts[1].frontmatter.date}</p>
-            <Spacer />
-            <Link
-              to={`/blog${posts[2].fields.slug}`}
-              style={subHeadStyle}>
-              {posts[2].frontmatter.title || posts[2].excerpt}
-            </Link>
-            <p style={dateStyle}>{posts[2].frontmatter.date}</p>
-          </Column>
-          <Spacer />
-        </Row>
-        <Link to="/blog/">
-          <Button>ALL POSTS</Button>
+export default function Home({data, location}) {
+  const sansFontFamily = ['Nunito Sans', 'sans-serif'].join()
+  const subHeadStyle = {
+    margin: 0,
+    fontFamily: sansFontFamily,
+    fontSize: `18px`,
+    fontWeight: 800,
+    boxShadow: `none`,
+  }
+  const dateStyle = {
+    margin: `8px 0 0`,
+    fontFamily: sansFontFamily,
+    fontSize: `12px`,
+    fontWeight: 300,
+    color: `rgba(255,255,255,0.7)`,
+  }
+  const posts = data.allMdx.edges.map(edge => edge.node)
+  const headlinePost = posts[0]
+  const projects = [
+    {
+      logo: data.stringTheory.childImageSharp.fixed,
+      description: `The best marketplace for your lacrosse stringing needs. Choose from highly reviewed stringers and get your stick strung exactly the way you like it everytime.`,
+      status: `active`,
+      url: `https://stringtheory.us/`,
+      background: `linear-gradient(#fda50f, #ff7417)`,
+      color: `#252525`,
+    },
+    {
+      logo: data.palooza.childImageSharp.fixed,
+      description: `Create a party and invite your friends to join and add music. A much more collaborative way to enjoy music with friends. Share the party.`,
+      status: `idle`,
+      url: `https://www.palooza.io/`,
+      background: `linear-gradient(#000, #111)`,
+      color: `#fff`,
+    },
+  ]
+  return <Layout location={location}>
+    <SEO
+      title="Home"
+      keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+    <Header>PROJECTS</Header>
+    <Row>
+      <Project {...projects[0]} />
+      <Spacer />
+      <Project {...projects[1]} />
+      <Spacer />
+    </Row>
+    <Spacer />
+    <Header>BLOG</Header>
+    <Row>
+      <Column>
+        <h1 style={{margin: 0}}>
+          {headlinePost.frontmatter.title || headlinePost.fields.slug}
+        </h1>
+        <Snippet style={{margin: `16px 0`}}>
+          {headlinePost.frontmatter.description || headlinePost.excerpt}
+        </Snippet>
+        <div style={dateStyle}>
+          <Link to={`/blog${headlinePost.fields.slug}`} style={{
+            boxShadow: `none`,
+          }}>Read More</Link>
+          <span style={{margin: `0 8px`}}>·</span>
+          <span>{headlinePost.frontmatter.date}</span>
+        </div>
+      </Column>
+      <Spacer />
+      <Column>
+        <Link
+          to={`/blog${posts[1].fields.slug}`}
+          style={subHeadStyle}>
+          {posts[1].frontmatter.title || posts[1].excerpt}
         </Link>
-      </Layout>
-    }} />
+        <p style={dateStyle}>{posts[1].frontmatter.date}</p>
+        <Spacer />
+        <Link
+          to={`/blog${posts[2].fields.slug}`}
+          style={subHeadStyle}>
+          {posts[2].frontmatter.title || posts[2].excerpt}
+        </Link>
+        <p style={dateStyle}>{posts[2].frontmatter.date}</p>
+      </Column>
+      <Spacer />
+    </Row>
+    <Link to="/blog/">
+      <Button>ALL POSTS</Button>
+    </Link>
+  </Layout>
 }
 
-const homeQuery = graphql`
+export const pageQuery = graphql`
   query HomeQuery {
     palooza: file(absolutePath: {regex: "/palooza.png/"}) {
       childImageSharp {

@@ -8,6 +8,7 @@ module.exports = {
     social: {
       instagram: `jcan37`,
       linkedin: `jeffrey-cannon-53921486`,
+      medium: `jeffcannon-dev`,
       twitter: `jcannon37`,
     },
     jobTitles: [

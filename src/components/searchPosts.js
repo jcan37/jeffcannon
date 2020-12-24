@@ -11,8 +11,8 @@ const SearchBar = styled.div`
   margin: 0 auto ${rhythm(1)};
   width: 100%;
   height: 3rem;
-  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.2));
-  box-shadow: 0 4px 8px rgba(0,0,0,0.5);
+  background: #252525;
+  box-shadow: 2px 4px 8px rgba(0,0,0,0.5), -1px -2px 4px rgba(255,255,255,0.1);
 
   svg {
     margin: auto 24px;
