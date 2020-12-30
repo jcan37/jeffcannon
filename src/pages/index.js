@@ -252,7 +252,7 @@ const Snippet = styled.div`
     bottom: 0;
     right: 0;
     width: 70%;
-    height: 1.2em;
+    height: 1.5em;
     background: linear-gradient(to right, rgba(37, 37, 37, 0), rgba(37, 37, 37, 1));
   }
 `
