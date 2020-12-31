@@ -29,7 +29,7 @@ Here's my retro for 2020:
 * *String Theory was launched.*
 * *We had over 10 customers and 2 repeat customers.*
 * *We partnered with GLE to teach kids how to string at a lacrosse camp.*
-* *Learned how to better to do e-commerce and using Shopify now to reduce our workload.*
+* *Learned about e-commerce and using Shopify now to reduce our workload.*
 * *We have over 170 followers on Instagram.*
 * *Listened to/read at least 10 books.*
 * *Spending quiet time free of distractions with myself daily.*
