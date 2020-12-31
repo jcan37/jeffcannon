@@ -47,7 +47,7 @@ Here's my retro for 2020:
 * *Helmet shields were an unnecessary investment for String Theory.*
 * *String Theory is not meeting its promises of transparency and trust.*
 * *String Theory can be marketed better.*
-* *String Theory needs to support and attract more stringers on the platform if we want make more money.*
+* *String Theory needs to support and attract more stringers on the platform if we want to make more money.*
 * *Living at home is stressful.*
 
 **What improvements do you want to make for next time?**
