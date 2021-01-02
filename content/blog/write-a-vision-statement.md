@@ -24,4 +24,4 @@ A good vision statement...
 
 Here's mine for 2021:
 
-*In 2021, I will be living an active, healthy lifestyle without alcohol. I will write everyday and read a book every month. String Theory will fulfill its promise of being the most convenient and personalized way to get your lacrosse stick strung by a high-quality professional. Our platform will have over 50 individual stringers and over 100 subscribers to our String Theory Premier service. We’ll take in over $50K in revenue while investing all profits back into growing the business. It will be insane and our most successful year yet!*
+*In 2021, I will be living an active, healthy lifestyle without alcohol. I will write everyday and read a book every month. String Theory will fulfill its promise of being the most convenient and personalized way to get your lacrosse stick strung by a high-quality professional. Our platform will have 50 individual stringers and over 100 subscribers to our String Theory Premier service. We’ll take in at least $50K in revenue while investing all profits back into growing the business. It will be insane and our most successful year yet!*
