@@ -1,6 +1,6 @@
 ---
 path: choose-key-results
-date: 2021-01-04T01:59:57.720Z
+date: 2021-01-03T19:59:57.720Z
 title: Choose key results
 description: Brainstorm and decide on binary key results that tell you whether
   or not you've accomplished your vision...
@@ -19,3 +19,5 @@ A good key result...
 * ...is a little bit of a stretch.
 
 Know what you want. This is what I want for 2021:
+
+- New York, NY
