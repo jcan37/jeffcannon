@@ -20,7 +20,7 @@ A good key result...
 
 Know what you want. This is what I want for 2021:
 
-* *Write everyday*
+* *Write every day*
 * *Read a book every month*
 * *Have one weekly physical activity that isn’t weightlifting or cardio (yoga, martial arts, paddle board, sports, etc.)*
 * *Average 7 hours of sleep per night*
