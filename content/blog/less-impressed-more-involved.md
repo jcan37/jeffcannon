@@ -12,6 +12,6 @@ This is another gem from Matthew McConaughey’s new book *Greenlights*.
 
 It’s okay to celebrate your wins and grieve your losses now and then, but don’t overindulge in these moments. If you linger, you can get stuck.
 
-Don’t worry about the result. Get carried away with the process. 
+Don’t mind the result. Get carried away with the process. 
 
 Less impressed, more involved.
