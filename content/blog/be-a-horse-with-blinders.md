@@ -1,7 +1,7 @@
 ---
-path: be-a-horse-with-blinders
+path: be-a-horse-with-blinders-on
 date: 2021-01-16T05:33:16.487Z
-title: Be a horse with blinders
+title: Be a horse with blinders on
 description: Race horses are adorned with blinders to block out their rear and
   peripheral vision. This keeps them focused and on track.
 ---
