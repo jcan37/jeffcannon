@@ -24,6 +24,8 @@ I might be trying to pack too much work in. I need time to decompress.
 
 I’m skipping my daily hour-long walks. I miss them as they are a necessary break from all the noise.
 
+My weight is not dropping fast enough even though I cut calories. This is probably due to me missing my walks so I’m not burning the same amount of calories.
+
 I’m probably spending too much time on my phone.
 
 **Looking ahead**
@@ -33,5 +35,7 @@ This weekend I am correcting my sleep. I’m going to go to bed early Saturday n
 Carefully plan work this week. Maybe plan 20% less than I think I can do.
 
 Even if I don’t feel like I have time, it is better to walk for at least 15 minutes than to skip it entirely.
+
+I will fast Sunday to get my weight loss on track.
 
 Does my phone need to be on during the day? Maybe I can just shut it off. I can definitely at least stop using it for looking at my to-do list.
