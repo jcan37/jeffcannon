@@ -1,7 +1,7 @@
 ---
 path: 2021-week-2-retro
 date: 2021-01-17T17:06:44.888Z
-title: 2021 Week 2 Retro
+title: 2021 week 2 retro
 description: The good, the bad, and looking ahead to week 3
 ---
 **The good**
