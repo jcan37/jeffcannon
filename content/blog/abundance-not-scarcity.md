@@ -3,9 +3,9 @@ path: abundance-not-scarcity
 date: 2021-01-21T13:01:48.941Z
 title: Abundance, not scarcity
 description: Most people think in terms of win-lose or zero sum. If I get one,
-  then you have to lose one. It leads to tribalism and pettiness.
+  then you have to lose one.
 ---
-Most people think in terms of win-lose or zero sum. If I get one, then you have to lose one. It leads to tribalism and pettiness.
+Most people think in terms of win-lose or zero sum. If I get one, then you have to lose one.
 
 But win-lose thinking is unsustainable. It only helps some people in the short-run and hurts everyone in the long-run. I have an optimistic view of the future that I think we can achieve if more people can adopt a win-win mentality.
 
