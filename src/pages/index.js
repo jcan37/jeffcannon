@@ -56,7 +56,7 @@ export default function Home({data, location}) {
       <Spacer />
     </Row>
     <Spacer />
-    <Header>BLOG</Header>
+    <Header>JOURNAL</Header>
     <Row>
       <Column>
         <h1 style={{margin: 0}}>

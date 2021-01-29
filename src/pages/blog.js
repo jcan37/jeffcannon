@@ -7,13 +7,13 @@ import SearchPosts from '../components/searchPosts'
 
 export default function Blog({data, navigate, location}) {
   return <Layout location={location}>
-    <SEO title="Blog" />
+    <SEO title="Journal" />
     <p style={{
       fontFamily: ['Nunito Sans', 'sans-serif'].join(),
       fontSize: `14px`,
       fontWeight: 700,
       letterSpacing: `2px`,
-    }}>BLOG</p>
+    }}>JOURNAL</p>
     <SearchPosts
       posts={data.allMdx.edges}
       localSearchBlog={data.localSearchBlog}
