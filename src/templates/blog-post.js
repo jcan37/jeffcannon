@@ -16,7 +16,7 @@ export default function BlogPostTemplate(props) {
     <PageLink to="/blog/" style={{
       fontWeight: 700,
       letterSpacing: `2px`,
-    }}>← BLOG</PageLink>
+    }}>← JOURNAL</PageLink>
     <Post
       date={post.frontmatter.date}
       title={post.frontmatter.title}>
