@@ -7,7 +7,7 @@ description: It can’t be for everyone. If it’s made for everyone, it won't b
 ---
 It can’t be for everyone. If it’s made for everyone, it won't be good enough for anyone.
 
-What’s the minimum viable audience? The more specific I can be about who’s it for, the easier it will be for me to have a clear idea of who I’m marketing to.
+What’s the minimum viable audience? The more specific I can be about who it's for, the easier it will be for me to have a clear idea of who I’m marketing to.
 
 Since String Theory is a marketplace, it has two buckets of “shareholders” in the business that we are trying to simultaneously serve: stringers and players. Let’s talk about who each one is separately.
 
