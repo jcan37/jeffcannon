@@ -1,6 +1,6 @@
 ---
 path: the-string-theory-worldview
-date: 2021-02-09T03:20:32.150Z
+date: 2021-02-08T03:20:32.150Z
 title: The String Theory worldview
 description: Our stringers and players are all individuals in high school or
   college who care about recognition and convenience.
