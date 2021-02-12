@@ -1,6 +1,6 @@
 ---
 path: the-change-you-seek-to-make
-date: 2021-02-12T00:11:13.976Z
+date: 2021-02-11T19:11:13.976Z
 title: The change you seek to make
 description: What change are you seeking to make with the business you are creating?
 ---
