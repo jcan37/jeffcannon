@@ -1,6 +1,6 @@
 ---
 path: prepare-for-abundance
-date: 2021-02-16T04:52:54.257Z
+date: 2021-02-15T04:52:54.257Z
 title: Prepare for abundance
 description: Whether they're aware of it or not, most people care about status.
 ---
