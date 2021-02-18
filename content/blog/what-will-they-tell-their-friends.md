@@ -1,6 +1,6 @@
 ---
 path: what-will-they-tell-their-friends
-date: 2021-02-18T00:21:10.197Z
+date: 2021-02-17T19:21:10.197Z
 title: What will they tell their friends?
 description: Have you heard of String Theory?
 ---
