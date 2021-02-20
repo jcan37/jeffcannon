@@ -1,6 +1,6 @@
 ---
 path: about-jeffcanstring-1
-date: 2021-02-20T17:38:51.785Z
+date: 2021-02-19T17:38:51.785Z
 title: "About jeffcanstring #1"
 description: I am the founder and Chief Theorist of String Theory.
 ---
