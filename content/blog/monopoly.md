@@ -1,6 +1,6 @@
 ---
 path: monopoly
-date: 2021-02-23T00:17:24.116Z
+date: 2021-02-22T19:17:24.116Z
 title: Monopoly
 description: Three principles for being a better Monopoly player that also apply
   to your life.
