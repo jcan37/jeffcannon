@@ -1,6 +1,6 @@
 ---
 path: string-theory-commercial-idea
-date: 2021-02-24T06:51:04.325Z
+date: 2021-02-23T06:51:04.325Z
 title: String Theory commercial idea
 description: Starts with a shot of a customer placing their order and leaving
   their stick outside.
