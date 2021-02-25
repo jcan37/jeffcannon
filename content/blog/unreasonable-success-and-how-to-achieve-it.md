@@ -1,6 +1,6 @@
 ---
 path: unreasonable-success-and-how-to-achieve-it
-date: 2021-02-25T03:57:48.419Z
+date: 2021-02-24T03:57:48.419Z
 title: Unreasonable success and how to achieve it
 description: I just finished reading Unreasonable Success and How to Achieve It
   by Richard Koch and I thought it was okay. 3 stars out of 5.
