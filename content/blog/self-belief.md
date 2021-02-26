@@ -1,6 +1,6 @@
 ---
 path: self-belief
-date: 2021-02-26T06:03:40.487Z
+date: 2021-02-25T06:03:40.487Z
 title: Self-belief
 description: The first and most important landmark on your way to unreasonable
   success is self-belief.
