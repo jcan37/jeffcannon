@@ -1,6 +1,6 @@
 ---
 path: make-your-own-trail
-date: 2021-03-04T04:51:22.635Z
+date: 2021-03-03T04:51:22.635Z
 title: Make your own trail
 description: Another landmark unreasonably successful people have in common is
   making their own trail.
