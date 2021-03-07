@@ -1,6 +1,6 @@
 ---
 path: thrive-on-setbacks
-date: 2021-03-07T00:25:01.234Z
+date: 2021-03-06T00:25:01.234Z
 title: Thrive on setbacks
 description: It is not enough to be resilient and merely survive setbacks. To be
   unreasonably successful, you must learn to positively thrive on them.
