@@ -1,6 +1,6 @@
 ---
 path: macgruber-is-underrated
-date: 2021-03-14T01:21:05.417Z
+date: 2021-03-13T01:21:05.417Z
 title: MacGruber is underrated
 description: I just watched MacGruber tonight and couldn’t stop laughing the
   entire movie. Everything is deliberately over-the-top and Will Forte nails the
