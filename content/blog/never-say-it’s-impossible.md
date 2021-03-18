@@ -1,7 +1,7 @@
 ---
-path: never-say-its-impossible
+path: dont-say-its-impossible
 date: 2021-03-18T01:18:52.722Z
-title: Never say it’s impossible
+title: Don't say it’s impossible
 description: In reading Elon Musk’s biography, it is clear that a big pet peeve
   of his is people telling him something is impossible.
 ---
