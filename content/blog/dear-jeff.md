@@ -1,6 +1,6 @@
 ---
 path: dear-jeff
-date: 2021-03-24T03:51:28.044Z
+date: 2021-03-23T03:51:28.044Z
 title: Dear Jeff
 description: Stop being patient. You need to have a greater sense of urgency in
   operating your business.
