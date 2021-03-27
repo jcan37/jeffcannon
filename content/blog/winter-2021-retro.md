@@ -1,6 +1,6 @@
 ---
 path: winter-2021-retro
-date: 2021-03-27T02:47:29.223Z
+date: 2021-03-26T02:47:29.223Z
 title: Winter 2021 retro
 description: The good, the bad, and looking ahead to the spring of 2021.
 ---
