@@ -1,6 +1,6 @@
 ---
 path: emilys-skin-care-routine
-date: 2021-03-30T03:24:15.964Z
+date: 2021-03-29T03:24:15.964Z
 title: Emily's skin care routine
 description: Jeff has so graciously given up his platform again to allow me to
   ramble on about what is currently holding real estate in my brain. So without
