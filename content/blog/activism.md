@@ -9,4 +9,4 @@ What most activists get right is that people need to change for the world to be 
 
 What most activists get wrong is the way that they try to change people.
 
-Trying to force people to change is lazy and ineffective. Inspiring people to change is difficult, but it is the best way to have a meaningful, lasting impact.
+Trying to *force* people to change is lazy and ineffective. *Inspiring* people to change is difficult, but it is the best way to have a meaningful, lasting impact.
