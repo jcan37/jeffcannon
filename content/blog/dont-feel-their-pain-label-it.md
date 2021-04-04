@@ -1,6 +1,6 @@
 ---
 path: dont-feel-their-pain-label-it
-date: 2021-04-04T03:23:44.075Z
+date: 2021-04-03T03:23:44.075Z
 title: Don’t feel their pain, label it
 description: I’m posting again about something I read in Never Split the
   Difference by Chris Voss. I’m learning a lot of new ideas from this book so
