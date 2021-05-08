@@ -5,8 +5,8 @@ title: How to get someone to bid against themselves
 description: In a negotiation, the art of getting someone to bid against
   themself is by saying “no” without actually using the word. Using the word
   would indicate you’re not willing to work with the other person but by using
-  calibrated questions, you can say “no” in a way that invites the other person
-  to think of ways to sweeten the deal for you.
+  calibrated questions and other indirect means, you can say “no” in a way that
+  invites the other person to think of ways to sweeten the deal for you.
 ---
 In a negotiation, the art of getting someone to bid against themself is by saying “no” without actually using the word. Using the word would indicate you’re not willing to work with the other person but by using calibrated questions and other indirect means, you can say “no” in a way that invites the other person to think of ways to sweeten the deal for you.
 
