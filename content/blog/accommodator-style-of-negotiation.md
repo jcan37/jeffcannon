@@ -1,6 +1,6 @@
 ---
 path: accomodator-style-of-negotiation
-date: 2021-05-13T00:43:58.721Z
+date: 2021-05-12T00:43:58.721Z
 title: Accommodator style of negotiation
 description: The accommodator style negotiator is sociable and friendly. The
   most important thing to them is spending time building the relationship with
