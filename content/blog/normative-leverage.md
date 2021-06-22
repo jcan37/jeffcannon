@@ -1,6 +1,6 @@
 ---
 path: normative-leverage
-date: 2021-06-22T18:11:55.760Z
+date: 2021-06-21T18:11:55.760Z
 title: Normative leverage
 description: Normative leverage is using the other party’s norms and standards
   to advance your position. If you can show inconsistencies between their
