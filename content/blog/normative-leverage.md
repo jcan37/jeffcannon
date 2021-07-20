@@ -13,4 +13,4 @@ For example, if your counterpart lets slip that they normally pay a certain mult
 
 Or consider another example when selling a used car: if your counterpart says they only pay the Kelley Blue Book value for a car, then you can set your price at the Blue Book value and they will have no room to negotiate without breaking the norm they set.
 
-Discovering normative leverage can be as easy asking your counterpart what they believe and listening openly.
+Discovering normative leverage can be as easy as asking your counterpart what they believe and listening openly.
