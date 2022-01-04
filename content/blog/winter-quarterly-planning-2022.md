@@ -2,7 +2,7 @@
 path: winter-quarterly-planning-2022
 date: 2022-01-04T02:45:54.269Z
 title: Winter quarterly planning 2022
-description: Fall 2021 retro and winter 2022 plan
+description: Fall 2021 retro and winter 2022 plan.
 ---
 **Fall 2021 Retro**
 
