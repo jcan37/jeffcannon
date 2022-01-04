@@ -1,7 +1,7 @@
 ---
-path: 2021-retro
+path: annual-retro-2021
 date: 2022-01-04T00:22:59.210Z
-title: 2021 retro
+title: Annual retro 2021
 description: 2021 expectations vs. reality
 ---
 **2021 expectations**
