@@ -12,7 +12,7 @@ My *health* goals were accomplished this quarter. I successfully cut weight and 
 
 My *wealth* goals were very poorly met this quarter again. I didn’t get to build many of the features that I wanted for String Theory. I also wanted to tighten up my spending to prepare for quitting my job but I didn’t do that either. I did however successfully negotiate for some discounts on heads for materials which is a big win for us. It is hard for me to be doing so many things at once. I need to look into getting some help.
 
-My *wisdom* goals for this quarter were met on the writing and walking front but I did not read all of the books I wanted to read. I guess I got slowed down by everything else and Influence was also a pretty long book. I’ll try to incorporate some shorter reads next quarter.
+My *wisdom* goals for this quarter were met on the writing and walking front but I did not read all of the books I wanted to read. I guess I got slowed down by everything else and *Influence* was also a pretty long book. I’ll try to incorporate some shorter reads next quarter.
 
 **Winter 2022 Plan**
 
