@@ -1,6 +1,6 @@
 ---
 path: growing-plants
-date: 2022-01-07T15:49:37.808Z
+date: 2021-07-01T14:49:37.808Z
 title: Growing plants
 description: Starting a relationship is like growing a plant. The early days are
   the most fragile. You need to provide just the right amount of care. Too much
