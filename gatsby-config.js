@@ -18,6 +18,7 @@ module.exports = {
       'Backseat Driver',
       'Cactus Massage Therapist',
       'Cat Stair Architect',
+      'Cheese Comedian',
       'Dorsia Reservationist',
       'Financial Wizard',
       'Gimp Suit Model',
