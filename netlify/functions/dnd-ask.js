@@ -326,11 +326,18 @@ exports.handler = async (event, context) => {
       }
     } catch (llmError) {
       console.error('LLM API error:', llmError);
+      
+      // Strip API keys from error message for security
+      let errorDetail = llmError.message || String(llmError);
+      errorDetail = errorDetail.replace(/sk-[a-zA-Z0-9_-]{20,}/g, '[API_KEY_REDACTED]');
+      errorDetail = errorDetail.replace(/anthropic[_-]?api[_-]?key[:\s=]+[^\s,}]+/gi, 'anthropic_api_key: [REDACTED]');
+      
       return {
         statusCode: 503,
         headers,
         body: JSON.stringify({ 
-          error: 'Failed to generate answer. Please try again later.' 
+          error: 'Failed to generate answer. Please try again later.',
+          detail: errorDetail
         })
       };
     }
