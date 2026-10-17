@@ -1,0 +1,58 @@
+pcs:
+  - name: Freyr Meliamne
+    player: Jeff
+    description: Archfey warlock
+    aliases:
+      - Frey
+      - Fry
+      - Frye
+      - Freyr Meliam
+      - Freyr Meliamn
+  
+  - name: Tink
+    player: Darrel
+    description: Fighter
+    aliases: []
+  
+  - name: Apple
+    player: Spencer
+    description: Rogue
+    aliases: []
+  
+  - name: Brad
+    player: Mouhssine
+    description: Paladin
+    aliases: []
+  
+  - name: Rhys
+    player: Avi
+    description: Bard (inactive - Avi stopped playing after having a baby)
+    aliases:
+      - Reese
+    notes: Not a current party member
+
+npcs:
+  - name: Seraphina
+    description: Freyr's patron
+    aliases:
+      - Serafina
+      - Seraphena
+  
+  - name: Riccardo
+    description: Dungeon Master
+    aliases:
+      - Ricardo
+
+places:
+  - name: Elturel
+    description: Holy city dragged into Avernus
+    aliases:
+      - Elturil
+      - Elterel
+  
+  - name: Avernus
+    description: First layer of the Nine Hells
+    aliases:
+      - Avernis
+
+items: []

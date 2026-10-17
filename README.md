@@ -44,6 +44,68 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/#authenticating-with-github) in the Gatsby documentation to finish the set up for your personal Netlify CMS with authentication.
 
+## 🎲 D&D Campaign Hub
+
+This site includes a password-protected D&D campaign hub at `/dnd` with the following features:
+
+- **Multi-campaign support**: Each campaign has its own password-protected space
+- **Session notes**: Markdown-based session recaps with frontmatter
+- **AI assistant**: Ask questions about campaign events, answered using session notes
+- **DM-only content**: Special sections that are excluded from player views
+
+### Environment Variables Required
+
+Set these in Netlify Dashboard → Site settings → Environment variables:
+
+**Required for all campaigns:**
+- `DND_SESSION_SECRET`: Random string (64+ chars) for signing session cookies
+
+**Required per campaign:**
+- `DND_PASSWORD_SLUT_DRAGONS`: Password for the Slut Dragons campaign
+- `DND_PASSWORD_RICCARDOS_AVERNUS`: Password for Riccardo's Avernus campaign
+
+**Required for AI features (at least one):**
+- `OPENAI_API_KEY`: OpenAI API key (for GPT-4o-mini)
+- `ANTHROPIC_API_KEY`: Anthropic API key (for Claude 3.5 Sonnet)
+
+**Password naming convention:** For campaign slug `my-campaign`, set `DND_PASSWORD_MY_CAMPAIGN` (uppercase, hyphens become underscores).
+
+### Content Structure
+
+Campaigns live in `content/dnd/<campaign-slug>/`:
+
+```
+content/dnd/
+├── README.md
+├── slut-dragons/
+│   ├── campaign.json
+│   ├── 2024-10-01.md
+│   └── 2024-10-08.md
+└── riccardos-avernus/
+    ├── campaign.json
+    ├── 2024-09-28.md
+    └── 2024-10-05.md
+```
+
+See `content/dnd/README.md` for detailed format documentation.
+
+### Security Notes
+
+- Campaign content is NOT included in the static build
+- All content is served through Netlify Functions that verify authentication
+- Passwords are checked against environment variables
+- Session cookies are signed and HttpOnly
+- Basic rate limiting on login attempts (5 attempts per 15 minutes)
+
+### Adding New Campaigns
+
+1. Create `content/dnd/<campaign-slug>/` directory
+2. Add `campaign.json` with metadata
+3. Set `DND_PASSWORD_<CAMPAIGN_SLUG_UPPERCASE>` environment variable in Netlify
+4. Redeploy the site
+
+The campaign will automatically appear on `/dnd` after deployment.
+
 ## 💫 Deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)

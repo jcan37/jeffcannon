@@ -1,0 +1,17 @@
+[build]
+  command = "gatsby build"
+  functions = "netlify/functions"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "16"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["content/dnd/**"]
+  
+[[redirects]]
+  from = "/dnd/*"
+  to = "/dnd/:splat"
+  status = 200
+  force = false
