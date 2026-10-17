@@ -1,0 +1,13 @@
+{
+  "name": "Riccardo's Avernus",
+  "role": "Player",
+  "character": "Freyr Meliamne",
+  "system": "D&D 5.5e",
+  "module": "Descent into Avernus",
+  "blurb": "A descent into the Nine Hells to save Elturel from damnation.",
+  "plaudPrefix": "D&D Riccardo's Avernus",
+  "dm": "Riccardo",
+  "status": "active",
+  "theme": "avernus",
+  "coverPosition": "55% 45%"
+}

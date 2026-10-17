@@ -46,7 +46,7 @@ export default function Bio() {
               fontWeight: 300,
               marginTop: `8px`,
               textAlign: `center`,
-            }}>{jobTitles[Math.floor(Math.random() * jobTitles.length)]}</Text>
+            }}>{pickJobTitle(jobTitles)}</Text>
           </Column>
         </Arrangement>
         <Row style={{marginTop: `8px`}}>
@@ -67,6 +67,20 @@ export default function Bio() {
         </ButtonLink>
       </Container>
     }} />
+}
+
+// One random job title per page load. Bio re-renders on every navigation
+// (including each keystroke in the journal search), so remember the pick
+// instead of rolling a new one each render.
+let jobTitle = null
+const pickJobTitle = jobTitles => {
+  if (typeof window === `undefined`) {
+    return jobTitles[Math.floor(Math.random() * jobTitles.length)]
+  }
+  if (!jobTitle) {
+    jobTitle = jobTitles[Math.floor(Math.random() * jobTitles.length)]
+  }
+  return jobTitle
 }
 
 const bioQuery = graphql`

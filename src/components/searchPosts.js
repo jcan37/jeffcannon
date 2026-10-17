@@ -4,38 +4,11 @@ import { useFlexSearch } from 'react-use-flexsearch'
 import * as queryString from 'query-string'
 import { rhythm } from '../utils/typography'
 import Post from './post'
+import SharedSearchBar from './searchBar'
 
-const SearchBar = styled.div`
-  display: flex;
-  border-radius: 12px;
+// The shared bar, spaced like the rest of the journal.
+const SearchBar = styled(SharedSearchBar)`
   margin: 0 auto ${rhythm(1)};
-  width: 100%;
-  height: 3rem;
-  background: #252525;
-  box-shadow: 2px 4px 8px rgba(0,0,0,0.5), -1px -2px 4px rgba(255,255,255,0.1);
-
-  svg {
-    margin: auto 24px;
-    height: 20px;
-    width: 20px;
-    color: rgba(255, 255, 255, 0.7);
-    fill: rgba(255, 255, 255, 0.7);
-  }
-
-  input {
-    display: flex;
-    flex: 100%;
-    height: 100%;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 14px;
-    background-color: transparent;
-    border: none;
-    margin: 0;
-    padding: 0 0.5rem 0 0;
-    color: rgba(255, 255, 255, 0.7);
-    word-wrap: break-word;
-    outline: none;
-  }
 `
 
 const SearchedPosts = ({results}) =>
@@ -86,8 +59,11 @@ export default function SearchPosts({posts, localSearchBlog, location, navigate}
           placeholder="Search all posts"
           value={query}
           onChange={e => {
+            // Replace rather than push, so typing doesn't add a history entry
+            // per letter and Back leaves the journal instead of un-typing.
             navigate(
-              e.target.value ? `/blog/?search=${e.target.value}` : "/blog/"
+              e.target.value ? `/blog/?search=${encodeURIComponent(e.target.value)}` : "/blog/",
+              { replace: true }
             )
             setQuery(e.target.value)
           }}

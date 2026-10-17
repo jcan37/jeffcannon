@@ -1,0 +1,93 @@
+pcs:
+  - name: Razageth
+    player: Mike
+    description: Dragonborn sorcerer
+    aliases:
+      - Razagith
+      - Razagath
+      - Razzageth
+  
+  - name: Tanner
+    player: Cam
+    description: Gnome barbarian
+    aliases:
+      - Taner
+      - Tenor
+    notes: Carries his baby Penny
+  
+  - name: Aracheus
+    player: Thomas
+    description: Dragonborn druid
+    aliases:
+      - Erakeus
+      - Araceus
+      - Arrakis
+    notes: Has pet spider Varasst
+  
+  - name: Strider
+    player: Brendan
+    description: Ranger
+    aliases:
+      - Stridor
+      - Stryder
+      - Mike Boland
+    notes: Mike Boland is Strider's secret name (NOT player Mike)
+
+npcs:
+  - name: Penny
+    description: Tanner's baby
+    aliases: []
+  
+  - name: Varasst
+    description: Aracheus's pet spider
+    aliases:
+      - Varos
+      - Varrast
+  
+  - name: Matt Boland
+    description: Strider's beast companion dog (died 2026-10-04)
+    aliases:
+      - Matt Mullins
+    notes: Distinct from Strider's secret name Mike Boland
+  
+  - name: Halia Thornton
+    description: Phandalin merchant and Zhentarim agent
+    aliases:
+      - Isoliah
+      - Holly
+      - Holly Thornton
+      - Halea
+  
+  - name: Adabra Gwynn
+    description: Local wise woman and herbalist
+    aliases:
+      - Adabra Gwen
+      - Abadra
+  
+  - name: Harbin Wester
+    description: Townmaster of Phandalin
+    aliases:
+      - Harben
+      - Harbor Wester
+  
+  - name: Cryovain
+    description: Young white dragon
+    aliases:
+      - Cryovane
+      - Cryo-vain
+      - Cryo Vain
+  
+  - name: Alderleaf
+    description: Halfling farmer in Phandalin
+    aliases:
+      - Alder Leaf
+      - Alderleef
+
+places:
+  - name: Phandalin
+    description: Small frontier town
+    aliases:
+      - Fandalin
+      - Phandalyn
+
+items: []

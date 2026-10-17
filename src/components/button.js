@@ -2,7 +2,10 @@ import React from 'react'
 import styled from 'styled-components'
 
 export default function Button(props) {
-  return <ButtonWrapper props={props}>{props.children}</ButtonWrapper>
+  const {type, disabled, onClick} = props
+  return <ButtonWrapper props={props} type={type} disabled={disabled} onClick={onClick}>
+    {props.children}
+  </ButtonWrapper>
 }
 
 const ButtonWrapper = styled.button`
@@ -29,5 +32,14 @@ const ButtonWrapper = styled.button`
   &:hover, &:active {
     transform: scale(1.05);
     box-shadow: 0 6px 8px rgba(0,0,0,0.5);
+  }
+  &:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 3px;
+  }
+  &:disabled {
+    cursor: progress;
+    transform: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.5);
   }
 `
