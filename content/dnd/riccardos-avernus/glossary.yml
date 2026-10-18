@@ -16,7 +16,7 @@ pcs:
   
   - name: Apple
     player: Spencer
-    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senzel
+    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senezhael
     aliases: []
   
   - name: Brad
@@ -48,9 +48,10 @@ npcs:
     aliases:
       - Ricardo
 
-  - name: Senzel
+  - name: Senezhael
     description: Apple's patron (CR 19); often appears as a girl with a ball; claims 6-7 of the Elturel refugees
     aliases:
+      - Senzel
       - Senazel
       - Senzala
       - Senizel
@@ -60,7 +61,6 @@ npcs:
       - Sanazel
       - Senzelle
       - Senesal
-    notes: Spelling as heard; not confirmed by Jeff
 
   - name: Ikaya
     description: Vampire lord of this part of Elturel (CR 17, optional boss); executed the Nightbringer and Joven
