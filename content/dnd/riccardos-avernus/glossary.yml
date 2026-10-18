@@ -1,7 +1,7 @@
 pcs:
   - name: Freyr Meliamne
     player: Jeff
-    description: Archfey warlock
+    description: Elf Archfey warlock (patron Seraphina) with sorcerer levels; level 7 as of 2026-10-17
     aliases:
       - Frey
       - Fry
@@ -16,13 +16,18 @@ pcs:
   
   - name: Apple
     player: Spencer
-    description: Rogue
+    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senzel
     aliases: []
   
   - name: Brad
     player: Mouhssine
-    description: Paladin
-    aliases: []
+    description: Dragonborn paladin (Oathbreaker since 2026-10-13); channeled Lathander's dawn on 2026-10-17
+    aliases:
+      - Moose
+      - Musa
+      - Musin
+      - Moosen
+    notes: The aliases are the player's nickname, which the table uses for the character
   
   - name: Rhys
     player: Avi
@@ -43,6 +48,92 @@ npcs:
     aliases:
       - Ricardo
 
+  - name: Senzel
+    description: Apple's patron (CR 19); often appears as a girl with a ball; claims 6-7 of the Elturel refugees
+    aliases:
+      - Senazel
+      - Senzala
+      - Senizel
+      - Sinizel
+      - Tenazel
+      - Cenazal
+      - Sanazel
+      - Senzelle
+      - Senesal
+    notes: Spelling as heard; not confirmed by Jeff
+
+  - name: Ikaya
+    description: Vampire lord of this part of Elturel (CR 17, optional boss); executed the Nightbringer and Joven
+    aliases:
+      - Akaya
+      - Kaya
+      - Ikaiah
+      - Hayato Kaya
+      - Dikaya
+    notes: Spelling as heard; not confirmed by Jeff
+
+  - name: The Nightbringer
+    description: Vampire who ran the Northern Dock; destroyed by Ikaya on 2026-10-17
+    aliases:
+      - Nightslinger
+      - Night Winger
+      - Dark Master Varex Sorgna
+    notes: Named "Dark Master Varex Sorgna" on 2026-10-13 (uncertain); only called the Nightbringer on 2026-10-17
+
+  - name: Joven
+    description: Former southern-dock foreman; betrayed the party, was turned, and was executed by Ikaya
+    aliases:
+      - Joran
+      - Jovan
+      - John
+      - Jordan
+      - Jorgen
+      - Jaren
+
+  - name: Elias
+    description: Allied NPC fighter who fights alongside the party
+    aliases:
+      - Eliza
+      - Alias
+
+  - name: Lulu
+    description: Glowing holy flying elephant who keeps the refugees calm
+    aliases:
+      - Ludo
+
+  - name: Malakorum
+    description: Captain and disowned champion of Edgar; challenged Freyr on the boulevard, then was taken by the shadows
+    aliases:
+      - Mallard Thorn
+    notes: Spelling as heard; uncertain
+
+  - name: Edgar
+    description: Enemy of the party
+    aliases:
+      - Engar
+
+  - name: Lathander
+    description: God of the Knights of Elturel; Brad prays to him
+    aliases:
+      - Latander
+      - Lethander
+      - Latande
+      - Llentender
+
+  - name: Yondala
+    description: Halfling goddess Apple prays to
+    aliases:
+      - Yolanda
+      - Yandala
+      - Endala
+      - Olanda
+
+  - name: Dala Don
+    description: Yondala's darker side, also prayed to by Apple
+    aliases:
+      - Dalathun
+      - Dala
+
 places:
   - name: Elturel
     description: Holy city dragged into Avernus
@@ -55,4 +146,26 @@ places:
     aliases:
       - Avernis
 
-items: []
+  - name: Keep of the Knights
+    description: Lathander's knights' keep in Elturel; west gate tower lit, east tower crumbled
+    aliases:
+      - the keep
+      - the key
+
+  - name: Northern Dock
+    description: Militarized vampire dock (6A) by the keep
+    aliases:
+      - North Dock
+      - 6A
+
+  - name: The Companion
+    description: The sun-like light in Elturel's sky
+    aliases: []
+
+items:
+  - name: Sending stone
+    description: Two-way stone from the Northern Dock watchtower; Freyr broke the rerouting rune on 2026-10-17; now with Brad
+    aliases:
+      - the rock phone
+      - walkie-talkie
+      - Sandstone
