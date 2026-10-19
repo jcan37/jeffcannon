@@ -6,6 +6,8 @@ pcs:
       - Razagith
       - Razagath
       - Razzageth
+      - Razgath
+      - Razzagath
   
   - name: Tanner
     player: Cam
@@ -22,6 +24,8 @@ pcs:
       - Erakeus
       - Araceus
       - Arrakis
+      - Raxis
+      - Arceus
     notes: Has pet spider Varasst
   
   - name: Strider
@@ -31,23 +35,31 @@ pcs:
       - Stridor
       - Stryder
       - Mike Boland
-    notes: Mike Boland is Strider's secret name (NOT player Mike)
+      - Mike Ballin
+    notes: Mike Boland is Strider's secret name (NOT player Mike). Son of Mark Boland
 
 npcs:
   - name: Penny
     description: Tanner's baby
-    aliases: []
+    aliases:
+      - Penelope
+      - Baby Penelope
   
   - name: Varasst
     description: Aracheus's pet spider
     aliases:
       - Varos
       - Varrast
+      - Varas
+      - Vross
+      - Varost
+      - Barost
   
   - name: Matt Boland
-    description: Strider's beast companion dog (died 2026-10-04)
+    description: Strider's beast companion dog (died 2026-10-04; revived and killed again 2026-10-18). Has a hellhound token
     aliases:
       - Matt Mullins
+      - Matt Bolden
     notes: Distinct from Strider's secret name Mike Boland
   
   - name: Halia Thornton
@@ -57,6 +69,7 @@ npcs:
       - Holly
       - Holly Thornton
       - Halea
+      - Holly Thorn
   
   - name: Adabra Gwynn
     description: Local wise woman and herbalist
@@ -69,6 +82,8 @@ npcs:
     aliases:
       - Harben
       - Harbor Wester
+      - Harvin
+      - Arvid
   
   - name: Cryovain
     description: Young white dragon
@@ -82,6 +97,22 @@ npcs:
     aliases:
       - Alder Leaf
       - Alderleef
+      - Dragon Bait
+  
+  - name: Mark Boland
+    description: Strider's father; three-armed assassin with a shadow blade guarding the Townmaster's Hall
+    aliases:
+      - Mark Bolin
+      - Mark Bowen
+      - Mark Bond
+      - Marvallan
+    notes: Distinct from Mike Boland (Strider's secret name) and Matt Boland (the dog)
+  
+  - name: Sun God
+    description: Glowing gladiator guard at the Townmaster's Hall door (players' nickname; Jeff calls him "the gladiator")
+    aliases:
+      - The gladiator
+      - Sun guy
 
 places:
   - name: Phandalin
@@ -89,5 +120,11 @@ places:
     aliases:
       - Fandalin
       - Phandalyn
+      - Fandolin
+
+  - name: Townmaster's Hall
+    description: Phandalin hall where Harbin lives since his house burned; has a cellar and a prison
+    aliases:
+      - Townmasters Hall
 
 items: []
