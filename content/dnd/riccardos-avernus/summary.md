@@ -1,55 +1,61 @@
 ---
-updated: "2026-10-17"
-through: "2026-10-17"
+updated: "2026-10-23"
+through: "2026-10-23"
 ---
 
 # Riccardo's Avernus: the story so far
 
 ## Where things stand
-The party is **level 7**. They're at the gate of the Keep of the Knights in Elturel with **20 rescued humans**, under a safe-passage truce from the vampire lord **Ikaya**, and they're about to go in. The gate was shut and didn't answer the sending stone, and Ikaya hinted that the Nightbringer had dealings with the keep. The Nightbringer and the traitor Joven are dead. The lava barge was burned and left at the Northern Dock. Ikaya warned the party never to come back to his territory.
+The party is **level 7** and inside the **Keep of the Knights** with their 20 refugees. The keep holds **62 people** (45 civilians, 12 knights, 4 squires and the healer Brenna), commanded by **Sir Edric Vale**. The knights survived by making a **deal with Ikaya**: help no one outside, and keep the **Lantern of the Dawn** inside the walls, in exchange for food crates every fourth night. Letting the party in broke that deal. Edric asked Brad to sacrifice himself or some of the refugees, and Brad refused. Tink then convinced Edric to stand and fight. Tonight brings the last supply drop, and **Ikaya comes alone to the middle of the bridge**. Edric will meet him there with the party. Lathander has told Brad that only he can unlock the lantern, and that he must leave *the unworthy* behind.
 
 ## The party
-- **Freyr Meliamne** (Jeff): elf Archfey warlock of Seraphina with sorcerer levels (Innate Sorcery, Blink). He's working toward sorcerer 3 for Wild Magic. Now level 7.
-  - He resummoned his quasit familiar after Closet died on 10/13. Summon Undead (poison zombie), Shillelagh/Booming Blade and Eldritch Blast pushes are his staples.
-  - He restored the sending stone and gave it to Brad.
-  - He carries the quartermaster's plate armor, papers, ledger, and a gold-plated ceremonial dagger in his bag of holding.
+- **Freyr Meliamne** (Jeff): elf Archfey warlock of Seraphina with sorcerer levels, working toward sorcerer 3 for Wild Magic. Now level 7.
+  - Staples: his quasit familiar, Summon Undead (a poison zombie), Shillelagh/Booming Blade, Eldritch Blast pushes, False Life and Mage Armor.
+  - He carries the quartermaster's plate armor, papers, a ledger, and a **magical gold-plated ceremonial dagger** (not yet attuned), plus 4 healing potions from Brenna.
   - Seraphina told him he should be on the other side of the city.
-- **Tink** (Darrel): fighter, staying straight fighter, carrying Hellreaver. Absent on 10/17, so he stayed in the background. On 10/13 he started the Northern Dock fight by naming Raphael as his master, and drew The Moon.
-- **Apple** (Spencer): halfling rogue who prays to Yondala and Dala Don. **Senezhael**, his devil patron, holds his soul by contract. Now level 7.
-  - He brokered the "best five vs best five" duel.
-  - On 10/17 he drew The Empress, which fully healed the party, gave them a long rest and added temp HP.
-  - Spencer is planning a Ranger dip and has hinted Apple could go out in a blaze of glory.
-- **Brad** (Mouhssine): dragonborn paladin, an Oathbreaker since The World broke his Oath of Vengeance on 10/13. Now level 7.
-  - On 10/17 he answered by **channeling Lathander's dawn**: a 20-ft light that vampires can't enter, kept going with his own HP. He fed it 38 HP and got everyone to the gate.
-  - He rides a summoned steed and has the sending stone.
+- **Tink** (Darrel): Battle Master fighter and cartographer with Hellreaver, Commanding Presence and Tactical Mind. Now level 7.
+  - He's at 32 of 66 max HP from vampire bites and needs Greater Restoration.
+  - His speech won Edric over. He prayed to Lathander for Brad and drew The High Priestess, The Hanged Man and The Sun.
+- **Apple** (Spencer): halfling rogue who prays to Yondala and Dala Don. **Senezhael** holds his soul by contract. Now level 7, and absent on 10/23.
+  - Spencer is leaning toward a druid, and Apple may be sacrificed.
+- **Brad** (Mouhssine): dragonborn paladin, Oathbreaker since 10/13, and the vessel of Lathander's dawn since 10/17. Now level 7.
+  - He trained as a knight of Lathander before the fall, and the knights welcomed him home.
+  - He refused Edric's sacrifice: *"I cannot sacrifice one to save ten."*
+  - Lathander says only Brad can bear the lantern to its full potential.
+  - He has the sending stone and a summoned steed.
 - **Rhys** (Avi): bard, inactive.
 
 ## Key people
-- **Seraphina**: Freyr's patron. Her power is limited in this city. She sees through Freyr's eyes, and offered to teleport him out onto the plains of hell.
-- **Senezhael**: Apple's patron (CR 19), who often appears as a girl with a ball. She claims 6–7 of the refugees and will claim them if vampires threaten them. She'll help get them to the material plane, but she can't teleport them. She killed the Nightbringer. *"Do not trust"* Ikaya.
-- **Lord Ikaya**: vampire lord, CR 17, an optional boss. He prizes "fairness." A saber-bearing woman stands at his right hand. He executed his own dishonorable offspring and restored the civilians the Nightbringer killed.
-- **Elias**: ally who fought in the duel. He ended at 1 HP.
-- **Lulu**: glowing holy elephant who keeps the refugees calm.
-- **Captain Malakorum** *(as heard)*: disowned champion of **Edgar**. He challenged Fry and was dragged off by the shadows.
-- **Edgar**: an enemy who hates the party.
-- **Raphael**: devil who grants boons. Tink claims him as master.
+- **Seraphina**: Freyr's patron. Her power is limited here, and she sees through his eyes.
+- **Senezhael**: Apple's patron (CR 19), who appears as a girl. She claims **four** of the party's 20 refugees and can't pass the keep's pulse check. She sensed a power inside that even she can't see into.
+- **Lord Ikaya**: vampire lord, CR 17, +12 to hit. His bite can turn a PC in one go. He prizes "fairness," and he has a deal with the keep, now broken.
+- **Sir Edric Vale**: commander of the keep. Proud and harsh, he turns refugees away. He made the deal with Ikaya and keeps the lantern hidden in the temple altar.
+- **The Mountain**: a silent seven-foot knight who is Edric's shadow.
+- **Captain Alara** *(as heard)*: wounded captain who knows Greater Restoration. She defied Edric to answer the stone and is now out of spells.
+- **Brenna**: the keep's generous healer.
+- **Elias**: allied fighter.
+- **Lulu**: holy elephant who calms the refugees.
+- **Captain Malakorum** *(as heard)* and **Edgar**: enemies.
+- **Raphael**: devil whom Tink calls master.
 - **Autumn**: refugee contact, gone to the Antlers / Amber Leaf.
 - **The master**: butcher-apron vampire who fled the slaughterhouse.
 
 ## Sessions
-- **The Slaughterhouse (2026-09-01):** The party raided a vampire slaughterhouse through the roof and found a ledger and the Vampiric Syphon scroll. Brad staked the elder vampire Marina. Apple's prayers drew The Tower and The Empress, and ten survivors were rescued.
-- **The Northern Dock (2026-10-13):** The party sailed the stolen lava barge to the Northern Dock disguised as guards. Tink's "Raphael" started a fight. The Moon revealed the hidden Nightbringer, The Star killed Freyr's familiar, and Brad's World draw broke his oath and turned the vampires human.
-- **The Boulevard to the Keep (2026-10-17):** Brad's Lathander light ended the dock fight. Freyr fixed the stone and looted the quartermaster. Joven betrayed the party and was turned.
-  - Senezhael audited the refugees' souls, and Malakorum's challenge was brushed aside.
-  - At the gate, a 5-on-5 duel ended when the Nightbringer broke the deal and Senezhael killed him. Ikaya killed Joven and the Nightbringer for good, revived the dead, and let the party go. They reached level 7.
+- **The Slaughterhouse (2026-09-01):** The party raided a vampire slaughterhouse, staked the elder Marina, found the Vampiric Syphon scroll and rescued ten survivors.
+- **The Northern Dock (2026-10-13):** The party took a lava barge to the Northern Dock in disguise. Tink's "Raphael" started a fight. The Star killed Freyr's familiar, and Brad's World draw broke his oath and turned the vampires human.
+- **The Boulevard to the Keep (2026-10-17):** Brad's Lathander light ended the dock fight. Joven betrayed the party, and Senezhael audited souls. The Nightbringer broke a duel deal, and Ikaya killed him and Joven, revived the dead, and granted safe passage. The party reached level 7.
+- **The Lantern of the Dawn (2026-10-23):** Brad was welcomed back into the keep. The party uncovered the knights' deal with Ikaya, and Brad refused Edric's sacrifice. Edric agreed to face Ikaya tonight. Lathander, through the lantern and Tink's tarot, named Brad its true bearer.
 
 ## Open threads
-- Enter the keep. Who answered the sending stone, why were the gates shut, and what deals did the Nightbringer have there?
-- Get the 20 refugees to safety (the Antlers/Amber Leaf, or out of hell). Settle Senezhael's claim on 6–7 of them.
-- Freyr's pact: find the lost season. Seraphina points to the other side of the city.
-- Next level: level 8 on crossing a bridge. Ikaya is an optional boss. Don't go back to his territory.
-- Brad's path as Lathander's vessel and an Oathbreaker. Elturel's paladins may hunt him.
-- The World's third effect and each player's consequences are still unannounced.
-- Joven's wife and daughter were never found.
-- Examine the quartermaster's papers, ledger, and ritual dagger.
-- Loose ends: Edgar and Malakorum, the escaped butcher-apron master, Marina's partner, the cube's missing plate, and how to kill devils.
+- **Tonight:** Ikaya on the bridge at the last supply drop.
+- **The lantern:** it lights 10 ft and hurts vampires that enter. Making it brighter "may exact a toll." Who are the unworthy who turn their eyes from its light, and does it matter that Brad is an Oathbreaker?
+- **Getting everyone out:** two lava rafts hold 14–15 of 62 people. The canal runs to the Northern Dock or falls into the void, and the bridges are the only crossings. Options include the Resistance hideout and the other side of the city.
+- **Factions:** Ikaya, the Resistance (Amber Leaf) and the devil-backed **Ashen Government**, which may be the bigger threat.
+- Tink's Greater Restoration (Alara, or the party's scroll).
+- Senezhael's claim on four refugees.
+- Freyr's dagger, papers and ledger. Brad's weapon trade with the armory.
+- The old storyteller's tale of a knight, a magic sword, a slain demon and a city saved.
+- Freyr's pact: find the lost season on the other side of the city.
+- Level 8 on crossing a bridge.
+- The World's third effect. Joven's wife and daughter.
+- Loose ends: Edgar and Malakorum, the escaped master, Marina's partner, the cube's missing plate, and how to kill devils.

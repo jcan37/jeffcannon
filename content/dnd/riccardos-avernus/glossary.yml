@@ -11,7 +11,7 @@ pcs:
   
   - name: Tink
     player: Darrel
-    description: Fighter
+    description: Battle Master fighter and cartographer; carries Hellreaver; Commanding Presence and Tactical Mind
     aliases: []
   
   - name: Apple
@@ -27,7 +27,10 @@ pcs:
       - Musa
       - Musin
       - Moosen
-    notes: The aliases are the player's nickname, which the table uses for the character
+      - Bradrick
+      - Branlyk
+      - Bradley
+    notes: The first four aliases are the player's nickname, which the table uses for the character. On 2026-10-23 he gave his family as "the Reinhardt family" (as heard; uncertain)
   
   - name: Rhys
     player: Avi
@@ -49,7 +52,7 @@ npcs:
       - Ricardo
 
   - name: Senezhael
-    description: Apple's patron (CR 19); often appears as a girl with a ball; claims 6-7 of the Elturel refugees
+    description: Apple's patron (CR 19); often appears as a girl with a ball; claims 6-7 of the Elturel refugees (4 of the 20 per Riccardo on 2026-10-23)
     aliases:
       - Senzel
       - Senazel
@@ -61,6 +64,9 @@ npcs:
       - Sanazel
       - Senzelle
       - Senesal
+      - Seneszl
+      - Sinizal
+      - Cezanne
 
   - name: Ikaya
     description: Vampire lord of this part of Elturel (CR 17, optional boss); executed the Nightbringer and Joven
@@ -70,6 +76,9 @@ npcs:
       - Ikaiah
       - Hayato Kaya
       - Dikaya
+      - Icaya
+      - Igaya
+      - Ekaia
     notes: Spelling as heard; not confirmed by Jeff
 
   - name: The Nightbringer
@@ -119,6 +128,9 @@ npcs:
       - Lethander
       - Latande
       - Llentender
+      - La Thunder
+      - Leander
+      - Blatender
 
   - name: Yondala
     description: Halfling goddess Apple prays to
@@ -134,12 +146,59 @@ npcs:
       - Dalathun
       - Dala
 
+  - name: Sir Edric Vale
+    description: Knight commander of the Keep of the Knights; made the keep's deal with Ikaya
+    aliases:
+      - Edric Vael
+      - Eddie
+      - Eldrick
+      - Andrik
+      - Eric
+    notes: Riccardo spelled it "Vale, Vael" on 2026-10-23. "Eddie" is Mouhssine's nickname for him
+
+  - name: The Mountain
+    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale
+    aliases:
+      - Mikerman
+    notes: "Heard once as \"Mikerman, the mountain\"; possibly a name; uncertain"
+
+  - name: Captain Alara
+    description: Wounded knight captain at the keep; knows Greater Restoration
+    aliases:
+      - Alarabos
+      - Alar
+      - Alora
+    notes: Spelling as heard; uncertain
+
+  - name: Brenna
+    description: Healer and apothecary at the keep
+    aliases:
+      - Brenda
+      - Brennattar
+    notes: Spelling as heard; uncertain
+
+  - name: Ashen Government
+    description: Organized, devil-aided faction in Elturel
+    aliases:
+      - Ashran government
+
+  - name: Amber Leaf
+    description: Resistance movement of Elturel civilians
+    aliases:
+      - the Resistance
+      - Maple Leaf
+      - the leaf
+
 places:
   - name: Elturel
     description: Holy city dragged into Avernus
     aliases:
       - Elturil
       - Elterel
+      - El Torre
+      - Altria
+      - Elturen
+      - Meltarel
   
   - name: Avernus
     description: First layer of the Nine Hells
@@ -169,3 +228,17 @@ items:
       - the rock phone
       - walkie-talkie
       - Sandstone
+      - sanding stone
+
+  - name: Lantern of the Dawn
+    description: Legendary artifact of Lathander's knights; its light (10 ft from the bearer) burns vampires; strongest in the hands of a true knight of Lathander
+    aliases:
+      - lantern of Lathander
+      - Dawn Bringer
+      - the relic
+
+  - name: Shield of the Hidden Lord
+    description: Possibly Brad's shield, which his family was slaughtered over; Riccardo asked whether it is "the shield of the Hidden Lord"
+    aliases:
+      - Garog shield
+    notes: Heard on 2026-10-23; uncertain
