@@ -11,7 +11,7 @@ The party is **level 7** and inside the **Keep of the Knights** with their 20 re
 ## The party
 - **Freyr Meliamne** (Jeff): elf Archfey warlock of Seraphina with sorcerer levels, working toward sorcerer 3 for Wild Magic. Now level 7.
   - Staples: his quasit familiar, Summon Undead (a poison zombie), Shillelagh/Booming Blade, Eldritch Blast pushes, False Life and Mage Armor.
-  - He carries the quartermaster's plate armor, papers, a ledger, and a **magical gold-plated ceremonial dagger** (not yet attuned), plus 4 healing potions from Brenna.
+  - He carries the quartermaster's plate armor, papers, a ledger, and a **magical gold-plated ceremonial dagger** (requires attunement, deals double damage against undead), plus 4 healing potions from Brenna.
   - Seraphina told him he should be on the other side of the city.
 - **Tink** (Darrel): Battle Master fighter and cartographer with Hellreaver, Commanding Presence and Tactical Mind. Now level 7.
   - He's at 32 of 66 max HP from vampire bites and needs Greater Restoration.
