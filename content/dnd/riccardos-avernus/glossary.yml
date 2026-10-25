@@ -30,7 +30,7 @@ pcs:
       - Bradrick
       - Branlyk
       - Bradley
-    notes: The first four aliases are the player's nickname, which the table uses for the character. On 2026-10-23 he gave his family as "the Reinhardt family" (as heard; uncertain)
+    notes: The first four aliases are the player's nickname, which the table uses for the character. On 2026-10-23 he gave his family as "the Reinhardt family"
   
   - name: Rhys
     player: Avi
@@ -52,7 +52,7 @@ npcs:
       - Ricardo
 
   - name: Senezhael
-    description: Apple's patron (CR 19); often appears as a girl with a ball; claims 6-7 of the Elturel refugees (4 of the 20 per Riccardo on 2026-10-23)
+    description: Apple's patron (CR 19); often appears as a girl with a ball; claims 7 of the Elturel refugees (Riccardo misspoke on 2026-10-23 saying "four")
     aliases:
       - Senzel
       - Senazel
@@ -68,9 +68,10 @@ npcs:
       - Sinizal
       - Cezanne
 
-  - name: Ikaya
+  - name: Ikaia
     description: Vampire lord of this part of Elturel (CR 17, optional boss); executed the Nightbringer and Joven
     aliases:
+      - Ikaya
       - Akaya
       - Kaya
       - Ikaiah
@@ -79,7 +80,6 @@ npcs:
       - Icaya
       - Igaya
       - Ekaia
-    notes: Spelling as heard; not confirmed by Jeff
 
   - name: The Nightbringer
     description: Vampire who ran the Northern Dock; destroyed by Ikaya on 2026-10-17
@@ -149,33 +149,33 @@ npcs:
   - name: Sir Edric Vale
     description: Knight commander of the Keep of the Knights; made the keep's deal with Ikaya
     aliases:
-      - Edric Vael
-      - Eddie
       - Eldrick
-      - Andrik
       - Eric
-    notes: Riccardo spelled it "Vale, Vael" on 2026-10-23. "Eddie" is Mouhssine's nickname for him
+      - Eddie
+      - Eddy
+      - Vael
+    notes: Mouhssine's joke nickname is "Eddy"
 
   - name: The Mountain
     description: Silent seven-foot knight in full plate who shadows Sir Edric Vale
     aliases:
       - Mikerman
-    notes: "Heard once as \"Mikerman, the mountain\"; possibly a name; uncertain"
+    notes: "Heard once as \"Mikerman, the mountain\"; possibly a name"
 
-  - name: Captain Alara
-    description: Wounded knight captain at the keep; knows Greater Restoration
+  - name: Alara Voss
+    description: Wounded knight captain at the keep; runs the Keep together with Sir Edric Vale; knows Greater Restoration
     aliases:
+      - Captain Alara
+      - Alaya
       - Alarabos
       - Alar
       - Alora
-    notes: Spelling as heard; uncertain
 
   - name: Brenna
     description: Healer and apothecary at the keep
     aliases:
       - Brenda
       - Brennattar
-    notes: Spelling as heard; uncertain
 
   - name: Ashen Government
     description: Organized, devil-aided faction in Elturel
@@ -238,7 +238,7 @@ items:
       - the relic
 
   - name: Shield of the Hidden Lord
-    description: Possibly Brad's shield, which his family was slaughtered over; Riccardo asked whether it is "the shield of the Hidden Lord"
+    description: Brad's shield, which his family was slaughtered over
     aliases:
       - Garog shield
-    notes: Heard on 2026-10-23; uncertain
+    notes: Riccardo asked on 2026-10-23 whether it is "the shield of the Hidden Lord." "Garog shield" is a misheard alias
