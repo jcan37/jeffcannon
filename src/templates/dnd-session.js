@@ -14,8 +14,17 @@ export default function SessionTemplate({location, pageContext}) {
   const {campaign, date} = pageContext
   const [access, unlock] = useCampaignAccess(campaign.slug)
 
+  const ogImagePath = `/dnd-og/${campaign.slug}.jpg`
+  const pageUrl = `/dnd/${campaign.slug}/${date}`
+  const description = `Session recaps and lore for the ${campaign.name} D&D campaign.`
+
   return <Layout location={location}>
-    <SEO title={`${campaign.name} · ${formatDate(date)}`} />
+    <SEO 
+      title={`${campaign.name} · ${formatDate(date)}`}
+      description={description}
+      image={ogImagePath}
+      url={pageUrl}
+    />
     <BackLink to={`/dnd/${campaign.slug}/`}>{campaign.name}</BackLink>
     {access === 'locked' && <>
       <Title>{formatDate(date)}</Title>

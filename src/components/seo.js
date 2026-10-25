@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, keywords, title }) {
+function SEO({ description, lang, meta, keywords, title, image, url }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -19,6 +19,7 @@ function SEO({ description, lang, meta, keywords, title }) {
             title
             description
             author
+            siteUrl
           }
         }
       }
@@ -26,6 +27,43 @@ function SEO({ description, lang, meta, keywords, title }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  const ogImage = image ? `${site.siteMetadata.siteUrl}${image}` : null
+  const ogUrl = url ? `${site.siteMetadata.siteUrl}${url}` : null
+
+  const imageMeta = ogImage ? [
+    {
+      property: `og:image`,
+      content: ogImage,
+    },
+    {
+      property: `og:image:width`,
+      content: `1200`,
+    },
+    {
+      property: `og:image:height`,
+      content: `630`,
+    },
+    {
+      name: `twitter:card`,
+      content: `summary_large_image`,
+    },
+    {
+      name: `twitter:image`,
+      content: ogImage,
+    },
+  ] : [
+    {
+      name: `twitter:card`,
+      content: `summary`,
+    },
+  ]
+
+  const urlMeta = ogUrl ? [
+    {
+      property: `og:url`,
+      content: ogUrl,
+    },
+  ] : []
 
   return (
     <Helmet
@@ -52,10 +90,6 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: `website`,
         },
         {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
           name: `twitter:creator`,
           content: site.siteMetadata.author,
         },
@@ -68,6 +102,8 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: metaDescription,
         },
       ]
+        .concat(imageMeta)
+        .concat(urlMeta)
         .concat(
           keywords.length > 0
             ? {
@@ -86,6 +122,8 @@ SEO.defaultProps = {
   meta: [],
   keywords: [],
   description: ``,
+  image: null,
+  url: null,
 }
 
 SEO.propTypes = {
@@ -94,6 +132,8 @@ SEO.propTypes = {
   meta: PropTypes.arrayOf(PropTypes.object),
   keywords: PropTypes.arrayOf(PropTypes.string),
   title: PropTypes.string.isRequired,
+  image: PropTypes.string,
+  url: PropTypes.string,
 }
 
 export default SEO

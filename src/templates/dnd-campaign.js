@@ -13,8 +13,17 @@ export default function CampaignTemplate({location, pageContext}) {
   const {campaign} = pageContext
   const [access, unlock] = useCampaignAccess(campaign.slug)
 
+  const ogImagePath = `/dnd-og/${campaign.slug}.jpg`
+  const pageUrl = `/dnd/${campaign.slug}`
+  const description = `Session recaps and lore for the ${campaign.name} D&D campaign.`
+
   return <Layout location={location}>
-    <SEO title={campaign.name} description={campaign.blurb} />
+    <SEO 
+      title={campaign.name} 
+      description={description}
+      image={ogImagePath}
+      url={pageUrl}
+    />
     <BackLink to="/dnd/">Campaigns</BackLink>
     <Title>{campaign.name}</Title>
     <MetaLine items={campaignMeta(campaign)} />
