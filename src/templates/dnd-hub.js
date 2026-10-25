@@ -19,8 +19,16 @@ export default function DndHub({location, pageContext}) {
     ))
   }, [campaigns])
 
+  const description = "Session recaps and lore from Jeff's D&D campaigns."
+  const hubImage = campaigns.length > 0 ? `/dnd-og/${campaigns[0].slug}.jpg` : null
+
   return <Layout location={location}>
-    <SEO title="D&D Campaigns" description="Jeff's D&D campaigns: session recaps and a place to ask what happened." />
+    <SEO 
+      title="D&D Campaigns" 
+      description={description}
+      image={hubImage}
+      url="/dnd"
+    />
     <Eyebrow as="h1">Campaigns</Eyebrow>
     <p style={{maxWidth: `560px`}}>
       The tables I’m running and the ones I’m playing at. Recaps from every session, and a place to ask what happened when nobody remembers.
