@@ -1,44 +1,50 @@
 ---
-updated: "2026-10-19"
-through: "2026-10-18"
+updated: "2026-10-28"
+through: "2026-10-25"
 ---
 
 # Slut Dragons: the story so far
 
 ## Where things stand
-The attack on the Townmaster's Hall failed. The three-armed guard turned out to be **Mark Boland, Strider's father**, an assassin with a shadow blade. He and the glowing gladiator at the door (the "Sun God") knocked out the whole party. They are **unconscious, not dead**, and nobody knows where they'll wake up. **Varasst** got away unnoticed and is hiding in the bushes outside the hall, watching. The Sun God is bloodied and ran north. Harbin never showed himself. Everyone gets a long rest while out cold and levels up next session.
+The party woke up in the basement prison of the Townmaster's Hall. They tricked their way out, killed the stone veteran goliath Maveth and **set the hall on fire**, leaving the jailer goliath Gorrin locked in his burning cell. They searched the first floor and found nothing. On the top floor Varasst came face to face with the **Sun God**, and initiative was rolled. The fire reaches them in about 16 rounds. **Penny is missing** somewhere in the hall, and **Harbin** hasn't been seen since he left them to "rot in this prison." Jeff hinted there's loot they haven't found, and warned that dying this time means dead for good.
 
 ## The party
-- **Razageth** (Mike): dragonborn sorcerer, level 5 next session. Took the Spell Sniper feat. Carries a shard (name uncertain) that gives him extra damage but speaks to him and hits back with psychic damage. Cryovain tore off his time-travel wrist guard. No gold.
-- **Tanner** (Cam): gnome barbarian/bard, level 4 next session. Carries baby Penny ("Baby Penelope"), whose random effects (hungry crying that does psychic damage, fire blasts) keep changing fights. Beheaded one of the dwarf guides, turned himself in for the bounty and escaped. Wears splint armor he isn't proficient in and fights with a greatsword and a thrown trident.
-- **Aracheus** (Thomas): dragonborn druid with pet spider Varasst, level 5 next session. Has Shadow Touched (a free Invisibility) and the newly picked-up Spike Growth. One unused Potion of Healing, a half-finished brewed potion, no gold.
-- **Strider** (Brendan): tiefling ranger, level 4 next session. His true name is Mike Boland; a homebrew item lets him smite 1/day if he reveals it. His father Mark is the hall's assassin. Strider stood up to him, stabbed him, then told him to "Run!" and spared him. His dog, Matt Boland, was revived mid-fight and then killed again. He returns on a long rest.
-- Every PC has 2 evil points, for killing the dwarves. Each one is −1 on Charisma checks except Intimidation, which they improve.
+- **Razageth** (Mike): dragonborn sorcerer, level 4. He has Spell Sniper, Suggestion, Witch Bolt, Chromatic Orb and Shield. His shard (name uncertain) boosts his damage and gives him advantage on Arcana, but hits him back with psychic damage. Cryovain has his time-travel wrist guard. No gold.
+- **Tanner** (Cam): gnome barbarian 2 / bard 2, level 4, max HP 39. Jeff picked placeholder Expertise (Intimidation, Perception) and Jack of All Trades, and Cam can change them. Fights with rage and Reckless. His baby **Penny** ("Baby Penelope") is missing in the hall.
+- **Aracheus** (Thomas): dragonborn druid with his pet spider Varasst, level 4. He has Shadow Touched, Spike Growth, Flame Blade and Wild Shape, and slipped the cuffs as a cat. He killed Maveth. Has a half-finished brewed potion and no gold.
+- **Strider** (Brendan): tiefling ranger, level 4, with the new Skulker feat (10 ft blindsight), Hail of Thorns and Goodberry. His true name is Mike Boland, and a homebrew item lets him smite once a day if he reveals it. His dog **Matt Boland** is back. He carries the guards' rock phone.
+- Every PC has 2 evil points from killing the dwarves. Each one is −1 on Charisma checks except Intimidation.
 
 ## Key people
-- **Mark Boland**: Strider's father, a three-armed assassin with a shadow blade, a poisoned crossbow and fire resistance like Strider's. He hid in the shadows and spared his son until the end. *"I can't let you terrorize this city anymore."* Hearing Strider's true name (**Mike Boland**) spooked him: *"Don't say that name."*
-- **The Sun God** ("the gladiator"): the Townmaster's Hall door guard. He glows, burns anyone near him with radiant light, and attacks three times with a spear. He healed himself and fled north, bloodied.
-- **Harbin Wester**: Townmaster of Phandalin. He survived his burning house, lives in the Townmaster's Hall (which has a cellar and a prison), posted a 500 gp bounty on the party, and has a musket.
-- **Halia Thornton**: runs the Miners' Exchange. Offered to become mayor and clear their names if they take Harbin out.
+- **Harbin Wester**: Townmaster of Phandalin, frail and half-burned since the party torched his house. He captured them and demanded *"What gives?"* He mocked Strider: *"I wonder what you have done for your father to hate you so much."* His whereabouts in the burning hall are unknown.
+- **Mark Boland**: Strider's father, a three-armed assassin. He knocked the party out on 10/18, took Harbin's 500 gp reward and left town, according to Harbin. Jeff: *"There is more to that story... You were deceived."*
+- **The Sun God** ("the gladiator"): glowing spear fighter who heals himself. He fled bloodied on 10/18 and is now on the top floor of the hall. A day has passed, so he has presumably rested.
+- **Gorrin**: goliath jailer with a crossbow and stone skin. Razageth suggested him to sleep, but he woke when the Suggestion dropped. He's locked in the burning basement cell.
+- **Maveth**: stone veteran goliath. He doubled in size and turned his skin to stone. Aracheus killed him on 10/25.
+- **Halia Thornton**: runs the Miners' Exchange. Her deal: take out Harbin, she becomes mayor and clears the bounty. She can't be seen helping.
 - **Adabra Gwynn**: midwife at the Umbrage Hill windmill. She no longer sells them potions.
 - **Cryovain**: the white dragon. He swallowed 119 gp and holds Razageth's wrist guard.
-- **Alderleaf**: halfling town farmer and Harbin supporter, still tied up in his shed.
-- **The stone goliath** veteran: killed Strider's dog on 10/4. Halia sent him to the south wall.
+- **Alderleaf**: halfling farmer, still tied up in his shed.
 
 ## Sessions
-- **The Dwarf Temple (2026-08-30):** The party cleared orcs and ochre jellies in the temple of Amador (uncertain), dwarf god of greed. They killed their dwarf guides Dazlin and Norvis. Prying the green gem from a horned statue blew it up.
-- **Green Gems and a Bounty (2026-09-06):** They took 15 green gems. Halia warned them of Harbin's 500 gp bounty. Tanner turned himself in, learned Harbin was alive, broke free and hid at Alderleaf Farm.
-- **The Manticore and the Vault (2026-09-24):** Tanner and Strider failed to crack the Exchange's electrified vault, and Halia nearly killed them. Razageth and Aracheus paid off a manticore at Adabra's windmill and got Potions of Healing.
-- **Cryovain Takes His Toll (2026-10-04):** Razageth got the pair thrown out of the windmill. Then Cryovain dropped them, ate their gold and took the wrist guard. Tanner and Strider kidnapped Alderleaf. The party took Halia's deal and moved on the Townmaster's Hall.
-- **Strider's Father (2026-10-18):** The hidden guard was Mark Boland, Strider's dad. Strider revealed his true name (**Mike Boland**) to smite, which rattled Mark, then stabbed him and later spared him. Mark and the Sun God knocked out the whole party. Varasst escaped to watch over them. Levels: Tanner and Strider to 4, Razageth and Aracheus to 5.
+- **The Dwarf Temple (2026-08-30):** The party cleared orcs and ochre jellies in the temple of Amador (uncertain) and killed their dwarf guides. Prying out the green gem blew up a statue.
+- **Green Gems and a Bounty (2026-09-06):** They took 15 green gems. Halia warned them of Harbin's 500 gp bounty. Tanner turned himself in, then escaped.
+- **The Manticore and the Vault (2026-09-24):** Tanner and Strider failed to crack the Exchange vault, and Halia nearly killed them. Razageth and Aracheus paid off a manticore at Adabra's windmill.
+- **Cryovain Takes His Toll (2026-10-04):** Cryovain dropped Razageth and Aracheus, ate their gold and took the wrist guard. Tanner and Strider kidnapped Alderleaf. The party took Halia's deal.
+- **Strider's Father (2026-10-18):** The hidden guard was Mark Boland. Strider revealed his true name to smite, then spared his father. Mark and the Sun God knocked out the whole party.
+- **Jailbreak and Fire (2026-10-25):** The party woke in Harbin's prison. Aracheus slipped out as a cat and Razageth's Suggestion opened the cell. They killed Maveth, set the hall on fire and met the Sun God on the top floor. The whole party reached level 4.
 
 ## Open threads
-- Where the party wakes up, and who has them.
-- Varasst is free outside the hall and could help, for example with the 2 unused Potions of Healing.
-- Mark Boland: why he protects the town, why Strider's true name scares him, and whether father and son can be reconciled.
-- The Sun God is bloodied and gone north. Harbin is still unseen.
-- Halia's deal: Harbin out, Halia as mayor, bounty cleared.
-- Getting the wrist guard back from Cryovain. Dragons love loot, and the party still has the 15 green gems.
+- The Sun God fight on the burning top floor, with about 16 rounds left.
+- Where Penny is.
+- Where Harbin is, and whether they finish him (Halia's deal).
+- Loot Jeff hinted is still in the hall.
+- Mark Boland's real story.
+- Gorrin in the burning basement.
+- The wrist guard from Cryovain. The 15 green gems and 2 Potions of Healing (not mentioned on 10/25).
 - The Exchange vault opens with a spell, not a key.
-- Alderleaf is still tied up in the shed.
-- Razageth's speaking shard. Aracheus's half-brewed potion.
+- Alderleaf in the shed. Aracheus's half-brewed potion.
+
+## DM Only
+
+- **Penny's location:** Harbin has Penny, but the players don't know where he is in the burning hall.
