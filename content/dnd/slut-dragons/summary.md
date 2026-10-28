@@ -6,12 +6,12 @@ through: "2026-10-25"
 # Slut Dragons: the story so far
 
 ## Where things stand
-The party woke up in the basement prison of the Townmaster's Hall. They tricked their way out, killed one goliath guard and **set the hall on fire**, leaving the jailer goliath Gorrin locked in his burning cell. They searched the first floor and found nothing. On the top floor Varasst came face to face with the **Sun God**, and initiative was rolled. The fire reaches them in about 16 rounds. **Penny is missing** somewhere in the hall, and **Harbin** hasn't been seen since he left them to "rot in this prison." Jeff hinted there's loot they haven't found, and warned that dying this time means dead for good.
+The party woke up in the basement prison of the Townmaster's Hall. They tricked their way out, killed the stone veteran goliath Maveth and **set the hall on fire**, leaving the jailer goliath Gorrin locked in his burning cell. They searched the first floor and found nothing. On the top floor Varasst came face to face with the **Sun God**, and initiative was rolled. The fire reaches them in about 16 rounds. **Penny is missing** somewhere in the hall, and **Harbin** hasn't been seen since he left them to "rot in this prison." Jeff hinted there's loot they haven't found, and warned that dying this time means dead for good.
 
 ## The party
-- **Razageth** (Mike): dragonborn sorcerer, level 5 *(Jeff said "you're all level four now" on 10/25; unconfirmed)*. He has Spell Sniper, Suggestion, Witch Bolt, Chromatic Orb and Shield. His shard (name uncertain) boosts his damage and gives him advantage on Arcana, but hits him back with psychic damage. Cryovain has his time-travel wrist guard. No gold.
+- **Razageth** (Mike): dragonborn sorcerer, level 4. He has Spell Sniper, Suggestion, Witch Bolt, Chromatic Orb and Shield. His shard (name uncertain) boosts his damage and gives him advantage on Arcana, but hits him back with psychic damage. Cryovain has his time-travel wrist guard. No gold.
 - **Tanner** (Cam): gnome barbarian 2 / bard 2, level 4, max HP 39. Jeff picked placeholder Expertise (Intimidation, Perception) and Jack of All Trades, and Cam can change them. Fights with rage and Reckless. His baby **Penny** ("Baby Penelope") is missing in the hall.
-- **Aracheus** (Thomas): dragonborn druid with his pet spider Varasst, level 5 *(same caveat)*. He has Shadow Touched, Spike Growth, Flame Blade and Wild Shape, and slipped the cuffs as a cat. He killed the big goliath. Has a half-finished brewed potion and no gold.
+- **Aracheus** (Thomas): dragonborn druid with his pet spider Varasst, level 4. He has Shadow Touched, Spike Growth, Flame Blade and Wild Shape, and slipped the cuffs as a cat. He killed Maveth. Has a half-finished brewed potion and no gold.
 - **Strider** (Brendan): tiefling ranger, level 4, with the new Skulker feat (10 ft blindsight), Hail of Thorns and Goodberry. His true name is Mike Boland, and a homebrew item lets him smite once a day if he reveals it. His dog **Matt Boland** is back. He carries the guards' rock phone.
 - Every PC has 2 evil points from killing the dwarves. Each one is −1 on Charisma checks except Intimidation.
 
@@ -20,7 +20,7 @@ The party woke up in the basement prison of the Townmaster's Hall. They tricked 
 - **Mark Boland**: Strider's father, a three-armed assassin. He knocked the party out on 10/18, took Harbin's 500 gp reward and left town, according to Harbin. Jeff: *"There is more to that story... You were deceived."*
 - **The Sun God** ("the gladiator"): glowing spear fighter who heals himself. He fled bloodied on 10/18 and is now on the top floor of the hall. A day has passed, so he has presumably rested.
 - **Gorrin**: goliath jailer with a crossbow and stone skin. Razageth suggested him to sleep, but he woke when the Suggestion dropped. He's locked in the burning basement cell.
-- A second goliath, one the party had met before, was killed by Aracheus on 10/25.
+- **Maveth**: stone veteran goliath. He doubled in size and turned his skin to stone. Aracheus killed him on 10/25.
 - **Halia Thornton**: runs the Miners' Exchange. Her deal: take out Harbin, she becomes mayor and clears the bounty. She can't be seen helping.
 - **Adabra Gwynn**: midwife at the Umbrage Hill windmill. She no longer sells them potions.
 - **Cryovain**: the white dragon. He swallowed 119 gp and holds Razageth's wrist guard.
@@ -32,7 +32,7 @@ The party woke up in the basement prison of the Townmaster's Hall. They tricked 
 - **The Manticore and the Vault (2026-09-24):** Tanner and Strider failed to crack the Exchange vault, and Halia nearly killed them. Razageth and Aracheus paid off a manticore at Adabra's windmill.
 - **Cryovain Takes His Toll (2026-10-04):** Cryovain dropped Razageth and Aracheus, ate their gold and took the wrist guard. Tanner and Strider kidnapped Alderleaf. The party took Halia's deal.
 - **Strider's Father (2026-10-18):** The hidden guard was Mark Boland. Strider revealed his true name to smite, then spared his father. Mark and the Sun God knocked out the whole party.
-- **Jailbreak and Fire (2026-10-25):** The party woke in Harbin's prison. Aracheus slipped out as a cat and Razageth's Suggestion opened the cell. They killed a goliath, set the hall on fire and met the Sun God on the top floor. Tanner and Strider reached level 4.
+- **Jailbreak and Fire (2026-10-25):** The party woke in Harbin's prison. Aracheus slipped out as a cat and Razageth's Suggestion opened the cell. They killed Maveth, set the hall on fire and met the Sun God on the top floor. The whole party reached level 4.
 
 ## Open threads
 - The Sun God fight on the burning top floor, with about 16 rounds left.
@@ -44,3 +44,7 @@ The party woke up in the basement prison of the Townmaster's Hall. They tricked 
 - The wrist guard from Cryovain. The 15 green gems and 2 Potions of Healing (not mentioned on 10/25).
 - The Exchange vault opens with a spell, not a key.
 - Alderleaf in the shed. Aracheus's half-brewed potion.
+
+## DM Only
+
+- **Penny's location:** Harbin has Penny, but the players don't know where he is in the burning hall.

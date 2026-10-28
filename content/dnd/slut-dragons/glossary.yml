@@ -119,6 +119,11 @@ npcs:
     aliases:
       - Goran
 
+  - name: Maveth
+    description: Stone veteran goliath guard at the Townmaster's Hall. Doubles in size, stone-skin reaction. Killed by Aracheus 2026-10-25
+    aliases:
+      - The vet
+
   - name: Sun God
     description: Glowing gladiator guard at the Townmaster's Hall door (players' nickname; Jeff calls him "the gladiator")
     aliases:
