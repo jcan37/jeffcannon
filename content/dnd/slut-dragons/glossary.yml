@@ -54,6 +54,10 @@ npcs:
       - Vross
       - Varost
       - Barost
+      - Veras
+      - Baros
+      - Barras
+      - Brass
   
   - name: Matt Boland
     description: Strider's beast companion dog (died 2026-10-04; revived and killed again 2026-10-18). Has a hellhound token
@@ -84,6 +88,8 @@ npcs:
       - Harbor Wester
       - Harvin
       - Arvid
+      - Harman
+      - Arvin
   
   - name: Cryovain
     description: Young white dragon
@@ -108,6 +114,11 @@ npcs:
       - Marvallan
     notes: Distinct from Mike Boland (Strider's secret name) and Matt Boland (the dog)
   
+  - name: Gorrin
+    description: Goliath jailer in the Townmaster's Hall basement (crossbow, stone skin). Locked in his burning cell 2026-10-25
+    aliases:
+      - Goran
+
   - name: Sun God
     description: Glowing gladiator guard at the Townmaster's Hall door (players' nickname; Jeff calls him "the gladiator")
     aliases:
