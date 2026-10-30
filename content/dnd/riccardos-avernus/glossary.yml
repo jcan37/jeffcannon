@@ -221,6 +221,13 @@ places:
     description: The sun-like light in Elturel's sky
     aliases: []
 
+  - name: Tree of Remembrance
+    description: Massive redwood-sized tree with green leaves in hell (location 19); under its roots are buried the greatest champions of Elturel; the High Overseer is crowned and anointed there; knights swear oaths under it; believed to be magical
+    aliases:
+      - Garden of Remembrance
+      - the tree
+    notes: Located opposite the keep; a huge road leads toward High Hall and the Garden area
+
 items:
   - name: Sending stone
     description: Two-way stone from the Northern Dock watchtower; Freyr broke the rerouting rune on 2026-10-17; now with Brad
@@ -231,7 +238,7 @@ items:
       - sanding stone
 
   - name: Lantern of the Dawn
-    description: Legendary artifact of Lathander's knights; its light (10 ft from the bearer) burns vampires; strongest in the hands of a true knight of Lathander
+    description: Legendary artifact of Lathander's knights; its light (20 ft from the bearer) burns vampires; strongest in the hands of a true knight of Lathander; making it brighter may exact a toll
     aliases:
       - lantern of Lathander
       - Dawn Bringer
