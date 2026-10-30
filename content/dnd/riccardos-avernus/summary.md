@@ -30,14 +30,14 @@ The party is **level 7** and inside the **Keep of the Knights** with their 20 re
 - **Senezhael**: Apple's patron (CR 19), who appears as a girl. She holds **7** of the party's 20 refugee souls and can't pass the keep's pulse check. She sensed a power inside that even she can't see into.
 - **Lord Ikaia**: vampire lord, CR 17, +12 to hit. His bite can turn a PC in one go. He prizes "fairness," and he has a deal with the keep, now broken.
 - **Sir Edric Vale**: commander of the keep. Proud and harsh, he turns refugees away. He made the deal with Ikaia and keeps the lantern hidden in the temple altar.
-- **The Mountain**: a silent seven-foot knight who is Edric's shadow.
+- **The Mountain**: a silent seven-foot knight who is Edric's shadow; no known name.
 - **Captain Alara Voss**: wounded captain who runs the Keep together with Edric and knows Greater Restoration. She defied Edric to answer the stone and is now out of spells.
 - **Brenna**: the keep's generous healer.
-- **Elias**: allied fighter.
-- **Lulu**: holy elephant who calms the refugees.
+- **Elias**: allied NPC fighter; his daughter is the leader of the Resistance.
+- **Lulu**: holyphant given to the party at Candlekeep; likely Zariel's old pet, though her memory is fuzzy.
 - **Captain Malakorum** *(as heard)* and **Edgar**: enemies.
 - **Raphael**: devil whom Tink calls master.
-- **Autumn**: refugee contact, gone to the Antlers / Amber Leaf.
+- **Autumn**: refugee contact, gone to the Antlers / Emberleaf.
 - **The master**: butcher-apron vampire who fled the slaughterhouse.
 
 ## Sessions
@@ -49,8 +49,8 @@ The party is **level 7** and inside the **Keep of the Knights** with their 20 re
 ## Open threads
 - **Tonight:** Ikaia on the bridge at the last supply drop.
 - **The lantern:** it lights 10 ft and hurts vampires that enter. Making it brighter "may exact a toll." Who are the unworthy who turn their eyes from its light, and does it matter that Brad is an Oathbreaker?
-- **Getting everyone out:** two lava rafts hold 14–15 of 62 people. The canal runs to the Northern Dock or falls into the void, and the bridges are the only crossings. Options include the Resistance hideout and the other side of the city.
-- **Factions:** Ikaia, the Resistance (Amber Leaf) and the devil-backed **Ashen Government**, which may be the bigger threat.
+- **Getting everyone out:** two lava rafts hold 14–15 of 62 people. The canal runs to the Northern Dock or falls into the void, and the bridges are the only crossings. Options include the Emberleaf Resistance hideout and the other side of the city.
+- **Factions:** Ikaia, the Emberleaf Resistance (a different place from the Antlers, and closer to the party), and the devil-backed **Ashen Government**, which may be the bigger threat.
 - Tink's Greater Restoration (Alara, or the party's scroll).
 - Senezhael's claim on 7 refugee souls.
 - Freyr's dagger, papers and ledger. Brad's weapon trade with the armory.

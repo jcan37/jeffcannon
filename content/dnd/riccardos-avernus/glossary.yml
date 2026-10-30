@@ -34,10 +34,11 @@ pcs:
   
   - name: Rhys
     player: Avi
-    description: Bard (inactive - Avi stopped playing after having a baby)
+    description: Bard PC (inactive - Avi stopped playing after having a baby and hasn't been at sessions for a while)
     aliases:
       - Reese
-    notes: Not a current party member
+      - Abi
+    notes: Not a current party member; player Avi's name is sometimes misheard as "Abi"
 
 npcs:
   - name: Seraphina
@@ -100,13 +101,13 @@ npcs:
       - Jaren
 
   - name: Elias
-    description: Allied NPC fighter who fights alongside the party
+    description: Allied NPC fighter who fights alongside the party; his daughter is the leader of the Resistance
     aliases:
       - Eliza
       - Alias
 
   - name: Lulu
-    description: Glowing holy flying elephant who keeps the refugees calm
+    description: Holyphant given to the party at Candlekeep; likely Zariel's old pet, though her memory is fuzzy; glowing holy flying elephant who keeps the refugees calm
     aliases:
       - Ludo
 
@@ -157,10 +158,10 @@ npcs:
     notes: Mouhssine's joke nickname is "Eddy"
 
   - name: The Mountain
-    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale
+    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale; no known name
     aliases:
       - Mikerman
-    notes: "Heard once as \"Mikerman, the mountain\"; possibly a name"
+    notes: "Heard once as \"Mikerman, the mountain\"; possibly a name, but The Mountain is the canonical name"
 
   - name: Alara Voss
     description: Wounded knight captain at the keep; runs the Keep together with Sir Edric Vale; knows Greater Restoration
@@ -182,12 +183,15 @@ npcs:
     aliases:
       - Ashran government
 
-  - name: Amber Leaf
-    description: Resistance movement of Elturel civilians
+  - name: Emberleaf
+    description: Resistance movement of Elturel civilians; a different location from the Antlers, and closer to the party's current position
     aliases:
       - the Resistance
+      - Amber Leaf
+      - Amberleaf
       - Maple Leaf
       - the leaf
+    notes: "Previously transcribed as 'Amber Leaf'; canonical spelling is Emberleaf"
 
 places:
   - name: Elturel
@@ -216,6 +220,11 @@ places:
     aliases:
       - North Dock
       - 6A
+
+  - name: The Antlers
+    description: Refugee faction safe house; probably location 22 (not confirmed)
+    aliases: []
+    notes: "Jeff said 'I think so' when asked if it's location 22, so likely but not certain"
 
   - name: The Companion
     description: The sun-like light in Elturel's sky
