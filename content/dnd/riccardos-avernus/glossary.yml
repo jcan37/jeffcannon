@@ -258,3 +258,8 @@ items:
     aliases:
       - Garog shield
     notes: Riccardo asked on 2026-10-23 whether it is "the shield of the Hidden Lord." "Garog shield" is a misheard alias
+
+mechanics:
+  - name: Corruption
+    description: Riccardo's house point system; PCs gain corruption for bad deeds and lose it for good ones
+    aliases: []

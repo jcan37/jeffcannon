@@ -60,7 +60,7 @@ Freyr and Apple went to the supply drop and found **vampires instead of food**. 
 - **Getting everyone out:** Two lava rafts hold 12 people each, 24 total (overloaded, unstable). The keep has 62 people. The canal runs to the Northern Dock or falls into the void, and the bridges are the only crossings. Pass Without Trace (30-ft radius, +10 stealth, 1 hour) might help, but stealth doesn't work if they're clearly seen. Options include the Emberleaf Resistance hideout and the other side of the city.
 - **Factions:** Ikaia, the Emberleaf Resistance (a different place from the Antlers, and closer to the party), and the devil-backed **Ashen Government**, which may be the bigger threat.
 - **The mountain's secret:** His tongue was cut out as a baby. He has never removed his helmet.
-- Tink needs Greater Restoration (at 32 of 66 max HP from vampire bites, corruption restored but not max HP).
+- Tink and Brad long-rested on 10/29, so Tink's max HP is restored and Greater Restoration is no longer needed.
 - Senezhael's claim on 7 refugee souls.
 - Freyr's dagger, papers and ledger. Brad's weapon trade with the armory.
 - The old storyteller's tale of a knight, a magic sword, a slain demon and a city saved.
