@@ -34,14 +34,14 @@ Freyr and Apple went to the supply drop and found **vampires instead of food**. 
 - **Senezhael**: Apple's patron (CR 19), who appears as a girl. She holds **7** of the party's 20 refugee souls and can't pass the keep's pulse check. She sensed a power inside that even she can't see into.
 - **Lord Ikaia**: vampire lord of this part of Elturel (CR 17, optional boss); executed the Nightbringer and Joven. He made a deal with Edric: help no one outside, keep the lantern inside, and get food every fourth night. The deal is broken, but Ikaia hasn't shown up yet.
 - **Sir Edric Vale**: commander of the keep. He confessed the deal to the knights on 10/29. He's pacing the battlements, doubled the guard, and is waiting for Ikaia's response. He tried to frame Brad's coming as a "noble sacrifice" before Tink called him out.
-- **The Mountain**: a silent seven-foot knight who is Edric's shadow. His tongue was cut out as a baby. He has never removed his helmet—not even when the lantern came out. He fist-bumped Apple back.
+- **The Mountain**: a silent seven-foot knight who is Edric's shadow; no known name. His tongue was cut out as a baby. He has never removed his helmet—not even when the lantern came out. He fist-bumped Apple back.
 - **Captain Alara Voss**: wounded captain who runs the Keep together with Edric and knows Greater Restoration. She defied Edric to answer the stone on 10/23 and is now out of spells. She asked the party if they're all going to die. She refuses to leave.
 - **Brenna**: the keep's generous healer.
-- **Elias**: allied fighter.
-- **Lulu**: holy elephant who calms the refugees.
+- **Elias**: allied NPC fighter; his daughter is the leader of the Resistance.
+- **Lulu**: holyphant given to the party at Candlekeep; likely Zariel's old pet, though her memory is fuzzy.
 - **Captain Malakorum** *(as heard)* and **Edgar**: enemies.
 - **Raphael**: devil whom Tink calls master.
-- **Autumn**: refugee contact, gone to the Antlers / Amber Leaf.
+- **Autumn**: refugee contact, gone to the Antlers / Emberleaf.
 - **The master**: butcher-apron vampire who fled the slaughterhouse.
 
 ## Sessions
@@ -57,8 +57,8 @@ Freyr and Apple went to the supply drop and found **vampires instead of food**. 
 - **Food crisis:** One meal left. The keep has 62 people and no supply line. Vampires are hungry. The empty crates full of trash are in the storage room.
 - **Ikaia's silence:** He hasn't come, but the deal is broken. Edric doubled the guard and is pacing the battlements.
 - **The lantern:** It lights 20 ft and hurts vampires that enter. Making it brighter "may exact a toll." Who are the unworthy who turn their eyes from its light, and does it matter that Brad is an Oathbreaker? Only Brad can unlock its full potential.
-- **Getting everyone out:** Two lava rafts hold 12 people each, 24 total (overloaded, unstable). The keep has 62 people. The canal runs to the Northern Dock or falls into the void, and the bridges are the only crossings. Pass Without Trace (30-ft radius, +10 stealth, 1 hour) might help, but stealth doesn't work if they're clearly seen.
-- **Factions:** Ikaia, the Resistance (Amber Leaf) and the devil-backed **Ashen Government**, which may be the bigger threat.
+- **Getting everyone out:** Two lava rafts hold 12 people each, 24 total (overloaded, unstable). The keep has 62 people. The canal runs to the Northern Dock or falls into the void, and the bridges are the only crossings. Pass Without Trace (30-ft radius, +10 stealth, 1 hour) might help, but stealth doesn't work if they're clearly seen. Options include the Emberleaf Resistance hideout and the other side of the city.
+- **Factions:** Ikaia, the Emberleaf Resistance (a different place from the Antlers, and closer to the party), and the devil-backed **Ashen Government**, which may be the bigger threat.
 - **The mountain's secret:** His tongue was cut out as a baby. He has never removed his helmet.
 - Tink needs Greater Restoration (at 32 of 66 max HP from vampire bites, corruption restored but not max HP).
 - Senezhael's claim on 7 refugee souls.
