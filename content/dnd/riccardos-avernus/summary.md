@@ -16,7 +16,7 @@ Freyr and Apple went to the supply drop and found **vampires instead of food**. 
   - He carries the quartermaster's plate armor, papers, a ledger, a **magical gold-plated ceremonial dagger** (requires attunement, deals double damage against undead), 4 healing potions from Brenna, and barrels of ale and wine from the keep.
   - Seraphina told him he should be on the other side of the city. He used his tarot on 10/29 to see three choices: Temperance (deal with Ikaia), Justice (boats), and the Emperor (front gate).
 - **Tink** (Darrel): Battle Master fighter and cartographer with Hellreaver, Commanding Presence and Tactical Mind. Now level 7.
-  - He's at 32 of 66 max HP from vampire bites and needs Greater Restoration (corruption was removed but not max HP).
+  - Tink and Brad long-rested on 10/29, so his max HP is restored and he no longer needs Greater Restoration.
   - On 10/23 he prayed to Lathander for Brad and drew The High Priestess, The Hanged Man and The Sun. He won Edric over.
   - On 10/29 he called Edric out when Edric tried to frame Brad's coming as a "noble sacrifice." He ran the bag-of-holding food bluff and argued for the front gate.
 - **Apple** (Spencer): halfling rogue who prays to Yondala and Dala Don. **Senezhael** holds his soul by contract. Now level 7, and absent on 10/23.
