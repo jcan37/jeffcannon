@@ -36,6 +36,7 @@ pcs:
       - Stryder
       - Mike Boland
       - Mike Ballin
+      - Mike Poland
     notes: Mike Boland is Strider's secret name (NOT player Mike). Son of Mark Boland. Homebrew magic item: smite 1/day if he reveals his true identity (Jeff 2026-10-19).
 
 npcs:
@@ -64,6 +65,7 @@ npcs:
     aliases:
       - Matt Mullins
       - Matt Bolden
+      - Mad Baller
     notes: Distinct from Strider's secret name Mike Boland
   
   - name: Halia Thornton
@@ -74,6 +76,7 @@ npcs:
       - Holly Thornton
       - Halea
       - Holly Thorn
+      - Talia
   
   - name: Adabra Gwynn
     description: Local wise woman and herbalist
@@ -90,6 +93,8 @@ npcs:
       - Arvid
       - Harman
       - Arvin
+      - Harmon
+      - Harbit
   
   - name: Cryovain
     description: Young white dragon
@@ -137,10 +142,15 @@ places:
       - Fandalin
       - Phandalyn
       - Fandolin
+      - Vandalin
 
   - name: Townmaster's Hall
     description: Phandalin hall where Harbin lives since his house burned; has a cellar and a prison
     aliases:
       - Townmasters Hall
 
-items: []
+items:
+  - name: Signet ring of House Boland
+    description: Strider's homebrew ring; smite on a hit when he says his true name
+    aliases:
+      - Mike Bull insignit
