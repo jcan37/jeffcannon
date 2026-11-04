@@ -185,7 +185,7 @@ npcs:
       - Ashran government
 
   - name: Emberleaf
-    description: Resistance movement of Elturel civilians; a different location from the Antlers, and closer to the party's current position
+    description: Resistance movement of Elturel civilians; located at the Antlers
     aliases:
       - the Resistance
       - Amber Leaf
@@ -194,10 +194,9 @@ npcs:
       - the leaf
     notes: "Previously transcribed as 'Amber Leaf'; canonical spelling is Emberleaf"
 
-  - name: Lady Seris
+  - name: Lady Cerys
     description: Ikaia's right hand; very undead, with jet-black hair and purple eyes; the bridge is to be handed to her
     aliases: []
-    notes: "Spelling as heard on 2026-11-03; unconfirmed"
 
   - name: Thomas
     description: Survivor of the hospital who guides the refugees; vouched for the party at the Antlers
@@ -205,15 +204,11 @@ npcs:
 
   - name: Autumn
     description: Elias's daughter, a leader of the resistance; freed Dane at the Southern Bridge, then fell to the Ashen Guard (fate unknown)
-    aliases:
-      - Arthur
-      - Otto
+    aliases: []
 
-  - name: Ressa
+  - name: Ressa Thorne
     description: Older woman who owns the Antlers and lives there like her father and grandfather did; the room goes quiet when she speaks
-    aliases:
-      - Ressa Thornd
-    notes: "Surname as heard on 2026-11-03; unconfirmed"
+    aliases: []
 
   - name: Nella
     description: Resistance scout at the Antlers who keeps the coded map of eastern Elturel
@@ -252,10 +247,9 @@ places:
       - 6A
 
   - name: The Antlers
-    description: Shuttered tavern hiding a resistance safe house, owned by Ressa; huge black antlers over the fireplace; reached on 2026-11-03 at the map's location 8
+    description: Shuttered tavern hiding a resistance safe house at location 8, owned by Ressa Thorne; huge black antlers over the fireplace; reached on 2026-11-03; where Emberleaf is located
     aliases:
       - the Antler
-    notes: "On 2026-10-30 Jeff thought it was 'probably location 22'; on the 11/3 tape Riccardo called the tavern location 8"
 
   - name: The Companion
     description: The sun-like light in Elturel's sky
