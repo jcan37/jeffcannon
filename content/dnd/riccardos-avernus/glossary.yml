@@ -28,6 +28,7 @@ pcs:
       - Musin
       - Moosen
       - Bradrick
+      - Broderick Reinhardt
       - Branlyk
       - Bradley
     notes: The first four aliases are the player's nickname, which the table uses for the character. On 2026-10-23 he gave his family as "the Reinhardt family"
@@ -193,6 +194,35 @@ npcs:
       - the leaf
     notes: "Previously transcribed as 'Amber Leaf'; canonical spelling is Emberleaf"
 
+  - name: Lady Seris
+    description: Ikaia's right hand; very undead, with jet-black hair and purple eyes; the bridge is to be handed to her
+    aliases: []
+    notes: "Spelling as heard on 2026-11-03; unconfirmed"
+
+  - name: Thomas
+    description: Survivor of the hospital who guides the refugees; vouched for the party at the Antlers
+    aliases: []
+
+  - name: Autumn
+    description: Elias's daughter, a leader of the resistance; freed Dane at the Southern Bridge, then fell to the Ashen Guard (fate unknown)
+    aliases:
+      - Arthur
+      - Otto
+
+  - name: Ressa
+    description: Older woman who owns the Antlers and lives there like her father and grandfather did; the room goes quiet when she speaks
+    aliases:
+      - Ressa Thornd
+    notes: "Surname as heard on 2026-11-03; unconfirmed"
+
+  - name: Nella
+    description: Resistance scout at the Antlers who keeps the coded map of eastern Elturel
+    aliases: []
+
+  - name: Dane
+    description: Frantic resistance courier who insists on going to the Northern Bridge; says Autumn freed him at the Southern Bridge
+    aliases: []
+
 places:
   - name: Elturel
     description: Holy city dragged into Avernus
@@ -222,9 +252,10 @@ places:
       - 6A
 
   - name: The Antlers
-    description: Refugee faction safe house; probably location 22 (not confirmed)
-    aliases: []
-    notes: "Jeff said 'I think so' when asked if it's location 22, so likely but not certain"
+    description: Shuttered tavern hiding a resistance safe house, owned by Ressa; huge black antlers over the fireplace; reached on 2026-11-03 at the map's location 8
+    aliases:
+      - the Antler
+    notes: "On 2026-10-30 Jeff thought it was 'probably location 22'; on the 11/3 tape Riccardo called the tavern location 8"
 
   - name: The Companion
     description: The sun-like light in Elturel's sky
@@ -236,6 +267,16 @@ places:
       - Garden of Remembrance
       - the tree
     notes: Located opposite the keep; a huge road leads toward High Hall and the Garden area
+
+  - name: Southern Bridge
+    description: The more heavily guarded bridge according to Dane; stone guardhouses at both ends; Autumn fell there; scouts have had no news since the fall
+    aliases:
+      - Southridge
+
+  - name: Northern Bridge
+    description: Bridge reinforced with barricades, Ashen patrols and possibly mages, according to Nella
+    aliases:
+      - North Bridge
 
 items:
   - name: Sending stone
