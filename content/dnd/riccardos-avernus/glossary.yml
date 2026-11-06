@@ -203,7 +203,7 @@ npcs:
     aliases: []
 
   - name: Autumn
-    description: Elias's daughter, a leader of the resistance; freed Dane at the Southern Bridge, then fell to the Ashen Guard (fate unknown)
+    description: Elias's daughter, a leader of the resistance; freed Dain at the Southern Bridge, then fell to the Ashen Guard (fate unknown)
     aliases: []
 
   - name: Ressa Thorne
@@ -214,7 +214,7 @@ npcs:
     description: Resistance scout at the Antlers who keeps the coded map of eastern Elturel
     aliases: []
 
-  - name: Dane
+  - name: Dain
     description: Frantic resistance courier who insists on going to the Northern Bridge; says Autumn freed him at the Southern Bridge
     aliases: []
 
@@ -263,7 +263,7 @@ places:
     notes: Located opposite the keep; a huge road leads toward High Hall and the Garden area
 
   - name: Southern Bridge
-    description: The more heavily guarded bridge according to Dane; stone guardhouses at both ends; Autumn fell there; scouts have had no news since the fall
+    description: The more heavily guarded bridge according to Dain; stone guardhouses at both ends; Autumn fell there; scouts have had no news since the fall
     aliases:
       - Southridge
 
