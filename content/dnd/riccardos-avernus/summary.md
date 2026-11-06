@@ -1,67 +1,47 @@
 ---
-updated: "2026-11-03"
-through: "2026-11-03"
+updated: "2026-11-05"
+through: "2026-11-05"
 ---
 
 # Riccardo's Avernus: the story so far
 
 ## Where things stand
-The party is **level 7**. The keep is lost, and the lantern is gone. They chose the Emperor, the path out the front gate. But when Ikaia's fog rolled over the bridge, **Ikaia** came in person with his right hand, **Lady Cerys**, and offered a deal. Brad forced it through. **Sir Edric Vale surrendered the Keep of the Knights** to Ikaia, and **Brad threw the Lantern of the Dawn into the lava**, gaining 3 corruption (now at 7). In return, everyone walked out alive under safe passage. But the party now owes Ikaia: **clear one of the bridges** of every living thing and every obstacle, then hand it to Lady Cerys. Ikaia's mist is taking over this whole side of the city.
+The party is **level 7**. The keep is lost and the Lantern of the Dawn is gone. They owe **Ikaia** a cleared bridge for **Lady Cerys**. After reaching **the Antlers** (location 8, where **Emberleaf** is), they learned the courier who pushed them north was compromised: he is **Corin Lyle**, a resistance scout whose mind answers as **"Dane Voss"** of the Ashen regime, with an infernal **chain** on his soul. **Autumn is alive** — she walked into the Antlers bloodied and reunited with Elias.
 
-The caravan of about 60 refugees, 12 knights, 4 squires and Brenna reached **the Antlers**, a shuttered tavern at location 8 that hides a resistance safe house run by **Ressa Thorne**, where **Emberleaf** is located. There they learned that **Autumn**, Elias's daughter, freed the courier **Dain** at the **Southern Bridge** but fell to the Ashen Guard. Her fate is unknown. Dain wants everyone to go north. The scout **Nella** says the Northern Bridge is crawling with Ashen soldiers and maybe mages. The safe house is nearly out of food. The next session is Thursday 11/5.
+They staged ~87 civilians at a scout post and rolled a disguised cart onto the **Northern Bridge**. Freyr's Deception 29 cleared the outer gate. At mid-bridge the ruse broke. **Silas** (Spencer's new Moon druid, already in Ashen colors) turned on the Ashen Guard as a giant constrictor and called spirit serpents. Freyr Counterspelled a Glyph of Confinement, Brad was Hold Person'd, and Freyr's acid Chromatic Orb dropped an Ashen soldier for 23. **The bridge fight is still going.** Next session is Wednesday.
 
 ## The party
-- **Freyr Meliamne** (Jeff): elf Archfey warlock of Seraphina with sorcerer levels, working toward sorcerer 3 for Wild Magic.
-  - His staples are his quasit familiar, Summon Undead, Booming Blade, Eldritch Blast pushes, Fog Cloud, Pass without Trace and Guidance.
-  - He carries the quartermaster's plate, papers and a ledger, plus a gold-plated ceremonial dagger that needs attunement and does double damage against undead. He also has Brenna's healing potions.
-  - On 11/3 he rode at the rear on horseback, using Speak with Animals on the horse, and bluffed Ikaia's envoy (Deception 25).
-- **Tink** (Darrel): Battle Master fighter, cartographer and carpenter who carries Hellreaver.
-  - He co-designed the holy-water squirt guns and asked Edric and the Mountain whether they would sacrifice themselves. Brad refused and Freyr backed him.
-  - At the Antlers he grappled Dain.
-  - Darrel's backup character idea is a high elf wizard.
-- **Apple** (Spencer): halfling rogue who prays to Yondala, with his soul contracted to Senezhael.
-  - He keeps the group linked by telepathy, which now includes Edric, Elias and the Mountain.
-  - On 11/3 he chose **The Chariot**, which points to a greater destiny and possibly a leader's ultimate sacrifice.
-  - Spencer is bringing a **new character** next session.
-- **Brad** (Mouhssine): dragonborn paladin, Oathbreaker and knight of Lathander, who now introduces himself as **Broderick Reinhardt**.
-  - He chose **The Hermit**, and the lantern grew from 10 ft to 20 ft. Then he negotiated with Ikaia, forced Edric's surrender and destroyed the lantern.
-  - He has **7 corruption**, the sending stone and a summoned steed.
-- **Rhys** (Avi): bard, inactive.
+- **Freyr Meliamne** (Jeff): elf Archfey warlock / sorcerer. Bluffed the outer bridge checkpoint (Deception 29), Counterspelled Glyph of Confinement, Innate Sorcery + acid Chromatic Orb (23).
+- **Tink** (Darrel): Battle Master fighter on the strike cart.
+- **Brad / Broderick Reinhardt** (Mouhssine): Oathbreaker paladin, 7 corruption, no lantern. Paralyzed by Hold Person mid-bridge.
+- **Apple** (Spencer): halfling rogue; stayed with the rear guard and civilians this session.
+- **Silas** (Spencer): new Circle of the Moon druid, introduced already embedded with the Ashen on the Northern Bridge; Wild Shape snake + Conjure Animals against them.
+- **Rhys** (Avi): inactive.
 
 ## Key people
-- **Ikaia**: vampire lord of this part of Elturel. He took the keep and keeps his word. He needs a bridge cleared that his forces can't take, possibly because of another light there.
-- **Lady Cerys**: Ikaia's very undead right hand, with black hair and purple eyes. The bridge is to be handed to her.
-- **Sir Edric Vale**: knelt and gave Ikaia the keep. He is now an empty man.
-- **The Mountain**: Edric's silent seven-foot shadow, "knight of the first dawn," +11 to hit. He screamed at the surrender.
-- **Captain Alara Voss**: wounded captain. Some of the party distrust her.
-- **Brenna**: the knights' apothecary, now with the party.
-- **Elias**: Autumn's father. He wept at the Antlers.
-- **Autumn**: resistance leader who fell at the Southern Bridge.
-- **Thomas**: hospital survivor who guided the party to the Antlers and vouched for them.
-- **Ressa Thorne**: owner of the Antlers. The room listens when she speaks.
-- **Nella** and **Dain**: the resistance's scout and its frantic courier.
-- **Seraphina**: Freyr's patron, who sees through his eyes.
-- **Senezhael**: Apple's patron. She holds 7 of the refugee souls.
-- **Lulu**: holyphant from Candlekeep, likely Zariel's old pet.
-- **Raphael**: devil Tink calls master. Enemies Malakorum and Edgar are still at large.
+- **Ikaia** / **Lady Cerys**: still owed a cleared bridge.
+- **Autumn**: alive; identified Corin; refuses to execute him.
+- **Elias**: reunited with Autumn.
+- **Corin Lyle** / **"Dane Voss"**: bound captive; memories of Corin, loyalty of Ashen; infernal chain-mark.
+- **Lord Regent Ottmar Vale**: Ashen ruler named by Corin (spelling uncertain).
+- **Nella**, **Ressa Thorne**, **Thomas**, **Brenna**, **Edric**, **the Mountain**, **Alara Voss**: as before.
+- **Silas**: Spencer's new PC on the bridge.
 
 ## Sessions
-- **The Slaughterhouse (2026-09-01):** The party raided a vampire slaughterhouse, staked the elder Marina and rescued ten survivors.
-- **The Northern Dock (2026-10-13):** The party took a lava barge to the Northern Dock in disguise. Brad's World draw broke his oath and turned the vampires human.
-- **The Boulevard to the Keep (2026-10-17):** Brad's Lathander light ended the dock fight. Ikaia executed the Nightbringer and Joven and granted safe passage. The party reached level 7.
-- **The Lantern of the Dawn (2026-10-23):** Brad was welcomed into the keep and refused Edric's sacrifice. The party uncovered the deal with Ikaia, and Lathander named Brad the lantern's bearer.
-- **The Empty Crates (2026-10-29):** Brad exposed Edric's deal, the supply drop turned out to be vampires, and Apple's Star showed safety at the Antlers and a way home at location 16. Freyr drew three paths.
-- **The Keep's Surrender (2026-11-03):** The party built holy-water squirt guns and Brad's Hermit grew the lantern from 10 ft to 20 ft. Ikaia arrived, and Edric gave up the keep while Brad destroyed the lantern for safe passage and a debt: clear a bridge for Lady Cerys. The caravan reached the Antlers (where Emberleaf is located) and learned that Autumn fell at the Southern Bridge.
+- **The Slaughterhouse (2026-09-01):** Vampire slaughterhouse raid; Marina staked; ten survivors.
+- **The Northern Dock (2026-10-13):** Lava barge disguise; Brad's World broke his oath.
+- **The Boulevard to the Keep (2026-10-17):** Lathander light; Ikaia executed Nightbringer and Joven; level 7.
+- **The Lantern of the Dawn (2026-10-23):** Brad refused Edric's sacrifice; Lathander named him lantern-bearer.
+- **The Empty Crates (2026-10-29):** Supply drop was vampires; Apple's Star pointed at the Antlers; Freyr's three paths.
+- **The Keep's Surrender (2026-11-03):** Hermit grew the lantern 10→20 ft; Edric gave Ikaia the keep; Brad destroyed the lantern (+3 corruption, now 7); caravan reached the Antlers; "Autumn fell" report.
+- **Autumn's Return (2026-11-05):** Autumn alive; Corin Lyle exposed as "Dane Voss"; Northern Bridge infiltration collapses into combat with Silas joining against the Ashen.
 
 ## Open threads
-- **The bridge debt:** Which bridge? The south has guardhouses and no news, and it's where Autumn fell. The north has barricades, patrols and maybe mages. Ashen carts take people across both and return empty.
-- **Autumn's fate**, and whether to go south to find her.
-- **Dain's insistence on going north.** Nella caught him not reading the map.
-- **The sword display** under the antlers, with its odd arrangement and empty hooks.
-- **Food and shelter** for about 60 refugees while the mist spreads.
-- **Location 16:** a way home on the far side. The Tree of Remembrance (19) still stands green.
-- **Emberleaf:** located at the Antlers (location 8).
-- Apple's Chariot and Spencer's new character.
-- Brad's corruption (7) and the cost of losing the lantern.
-- Senezhael's 7 souls, and Freyr's pact to find something living that should be dead on the other side of the city.
-- Loose ends: Edgar and Malakorum, the escaped master, the World's third effect, and Joven's wife and daughter.
+- Finish clearing the **Northern Bridge** for Lady Cerys; signal the civilian column.
+- **Corin's** rewritten mind and infernal chain — who holds it? Link to **Alara Voss**?
+- **Ottmar Vale** and the Ashen regime.
+- Southern Bridge destroyed; Middle Bridge still a fortress.
+- Food/shelter at the Antlers; Ikaia's mist spreading.
+- Location 16 (way home); Tree of Remembrance (19).
+- Brad's corruption (7); Senezhael's 7 souls; Freyr's pact across the city.
+- Loose ends: Edgar, Malakorum, World's third effect, Joven's family.
