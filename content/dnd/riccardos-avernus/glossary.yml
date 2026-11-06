@@ -16,8 +16,14 @@ pcs:
   
   - name: Apple
     player: Spencer
-    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senezhael
+    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senezhael; stayed with the rear guard on 2026-11-05
     aliases: []
+  
+  - name: Silas
+    player: Spencer
+    description: Circle of the Moon druid (new PC as of 2026-11-05); introduced already wearing Ashen colors on the Northern Bridge, then turned on the Ashen Guard
+    aliases: []
+    notes: Spelling as heard on tape; uncertain. Apple remains Spencer's other character
   
   - name: Brad
     player: Mouhssine
@@ -203,7 +209,7 @@ npcs:
     aliases: []
 
   - name: Autumn
-    description: Elias's daughter, a leader of the resistance; freed Dain at the Southern Bridge, then fell to the Ashen Guard (fate unknown)
+    description: Elias's daughter, a leader of the resistance; returned alive to the Antlers on 2026-11-05 (bloodied); identified Corin Lyle
     aliases: []
 
   - name: Ressa Thorne
@@ -215,8 +221,10 @@ npcs:
     aliases: []
 
   - name: Dain
-    description: Frantic resistance courier who insists on going to the Northern Bridge; says Autumn freed him at the Southern Bridge
-    aliases: []
+    description: The frantic courier from 2026-11-03; on 2026-11-05 revealed as Corin Lyle answering as "Dane Voss" with Ashen loyalty and an infernal chain-mark on his soul
+    aliases:
+      - Dane
+      - Dane Voss
 
 places:
   - name: Elturel
