@@ -8,7 +8,7 @@ through: "2026-11-03"
 ## Where things stand
 The party is **level 7**. The keep is lost, and the lantern is gone. They chose the Emperor, the path out the front gate. But when Ikaia's fog rolled over the bridge, **Ikaia** came in person with his right hand, **Lady Cerys**, and offered a deal. Brad forced it through. **Sir Edric Vale surrendered the Keep of the Knights** to Ikaia, and **Brad threw the Lantern of the Dawn into the lava**, gaining 3 corruption (now at 7). In return, everyone walked out alive under safe passage. But the party now owes Ikaia: **clear one of the bridges** of every living thing and every obstacle, then hand it to Lady Cerys. Ikaia's mist is taking over this whole side of the city.
 
-The caravan of about 60 refugees, 12 knights, 4 squires and Brenna reached **the Antlers**, a shuttered tavern at location 8 that hides a resistance safe house run by **Ressa Thorne**, where **Emberleaf** is located. There they learned that **Autumn**, Elias's daughter, freed the courier **Dane** at the **Southern Bridge** but fell to the Ashen Guard. Her fate is unknown. Dane wants everyone to go north. The scout **Nella** says the Northern Bridge is crawling with Ashen soldiers and maybe mages. The safe house is nearly out of food. The next session is Thursday 11/5.
+The caravan of about 60 refugees, 12 knights, 4 squires and Brenna reached **the Antlers**, a shuttered tavern at location 8 that hides a resistance safe house run by **Ressa Thorne**, where **Emberleaf** is located. There they learned that **Autumn**, Elias's daughter, freed the courier **Dain** at the **Southern Bridge** but fell to the Ashen Guard. Her fate is unknown. Dain wants everyone to go north. The scout **Nella** says the Northern Bridge is crawling with Ashen soldiers and maybe mages. The safe house is nearly out of food. The next session is Thursday 11/5.
 
 ## The party
 - **Freyr Meliamne** (Jeff): elf Archfey warlock of Seraphina with sorcerer levels, working toward sorcerer 3 for Wild Magic.
@@ -17,7 +17,7 @@ The caravan of about 60 refugees, 12 knights, 4 squires and Brenna reached **the
   - On 11/3 he rode at the rear on horseback, using Speak with Animals on the horse, and bluffed Ikaia's envoy (Deception 25).
 - **Tink** (Darrel): Battle Master fighter, cartographer and carpenter who carries Hellreaver.
   - He co-designed the holy-water squirt guns and asked Edric and the Mountain whether they would sacrifice themselves. Brad refused and Freyr backed him.
-  - At the Antlers he grappled Dane.
+  - At the Antlers he grappled Dain.
   - Darrel's backup character idea is a high elf wizard.
 - **Apple** (Spencer): halfling rogue who prays to Yondala, with his soul contracted to Senezhael.
   - He keeps the group linked by telepathy, which now includes Edric, Elias and the Mountain.
@@ -39,7 +39,7 @@ The caravan of about 60 refugees, 12 knights, 4 squires and Brenna reached **the
 - **Autumn**: resistance leader who fell at the Southern Bridge.
 - **Thomas**: hospital survivor who guided the party to the Antlers and vouched for them.
 - **Ressa Thorne**: owner of the Antlers. The room listens when she speaks.
-- **Nella** and **Dane**: the resistance's scout and its frantic courier.
+- **Nella** and **Dain**: the resistance's scout and its frantic courier.
 - **Seraphina**: Freyr's patron, who sees through his eyes.
 - **Senezhael**: Apple's patron. She holds 7 of the refugee souls.
 - **Lulu**: holyphant from Candlekeep, likely Zariel's old pet.
@@ -56,7 +56,7 @@ The caravan of about 60 refugees, 12 knights, 4 squires and Brenna reached **the
 ## Open threads
 - **The bridge debt:** Which bridge? The south has guardhouses and no news, and it's where Autumn fell. The north has barricades, patrols and maybe mages. Ashen carts take people across both and return empty.
 - **Autumn's fate**, and whether to go south to find her.
-- **Dane's insistence on going north.** Nella caught him not reading the map.
+- **Dain's insistence on going north.** Nella caught him not reading the map.
 - **The sword display** under the antlers, with its odd arrangement and empty hooks.
 - **Food and shelter** for about 60 refugees while the mist spreads.
 - **Location 16:** a way home on the far side. The Tree of Remembrance (19) still stands green.
