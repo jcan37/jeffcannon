@@ -21,7 +21,7 @@ pcs:
   
   - name: Silas
     player: Spencer
-    description: Circle of the Moon druid (new PC as of 2026-11-05); introduced already wearing Ashen colors on the Northern Bridge, then turned on the Ashen Guard
+    description: Circle of the Moon druid (new PC as of 2026-11-05); introduced already wearing Ashen colors on the Northern Bridge, then turned on the Ashen Guard; on 2026-11-11 taken (in snake form) by a crowned figure who said he had betrayed his patron
     aliases: []
     notes: Spelling as heard on tape; uncertain. Apple remains Spencer's other character
   
@@ -37,6 +37,9 @@ pcs:
       - Broderick Reinhardt
       - Branlyk
       - Bradley
+      - Mousse
+      - Moushun
+      - Musen
     notes: The first four aliases are the player's nickname, which the table uses for the character. On 2026-10-23 he gave his family as "the Reinhardt family"
   
   - name: Rhys
@@ -165,9 +168,10 @@ npcs:
     notes: Mouhssine's joke nickname is "Eddy"
 
   - name: The Mountain
-    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale; no known name
+    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale; no known name. Called in as an ally on the Northern Bridge on 2026-11-11 (136 HP, AC 18, +10 to hit, 3d6+7 greatsword, Sweep, shoulder charge, Interpose)
     aliases:
       - Mikerman
+      - the juggernaut
     notes: "Heard once as \"Mikerman, the mountain\"; possibly a name, but The Mountain is the canonical name"
 
   - name: Alara Voss
@@ -219,6 +223,25 @@ npcs:
   - name: Nella
     description: Resistance scout at the Antlers who keeps the coded map of eastern Elturel
     aliases: []
+
+  - name: The crowned figure
+    description: Unnamed being who rose from under the Northern Bridge on 2026-11-11; horned, crown-like helmet that Brad recognized, blazing yellow eyes, presence that frightens; told Silas "You have betrayed your patron, beast" and vanished with him in green smoke, leaving cream-white angel feathers striped with black
+    aliases:
+      - Witch King
+      - the witch king
+      - the king
+    notes: No name given on tape; Riccardo compared the helmet to the Lord of the Rings Witch-king
+
+  - name: The arcanist
+    description: Ashen mage on the Northern Bridge (Counterspell, Hold Person, radiant bolts, recharging darkness-tendril restraint spell); killed by Freyr's Booming Blade on 2026-11-11, releasing the scream of a trapped soul
+    aliases:
+      - the mage
+      - the wizard
+
+  - name: Zariel
+    description: Named by Riccardo on 2026-11-11 as the campaign's final boss (spells up to DC 30, +18 to hit); Lulu was likely her old pet
+    aliases:
+      - Ariel
 
   - name: Dain
     description: The frantic courier from 2026-11-03; on 2026-11-05 revealed as Corin Lyle answering as "Dane Voss" with Ashen loyalty and an infernal chain-mark on his soul
@@ -302,7 +325,20 @@ items:
       - Garog shield
     notes: Riccardo asked on 2026-10-23 whether it is "the shield of the Hidden Lord." "Garog shield" is a misheard alias
 
+  - name: Brad's necklace
+    description: Once per long rest, Brad drops to 1 HP instead of 0 (used 2026-11-11); also always gives advantage against being frightened
+    aliases: []
+
+  - name: Rod of the Pact Keeper
+    description: Freyr's rod; used on 2026-11-11 to regain a spell slot
+    aliases:
+      - Rod of the Pack Keeper
+
 mechanics:
   - name: Corruption
     description: Riccardo's house point system; PCs gain corruption for bad deeds and lose it for good ones
+    aliases: []
+
+  - name: Yellow card
+    description: Riccardo's term for a mark a PC gets when downed (e.g. left down for a round, or hit for double max HP in one blow); exact rule uncertain
     aliases: []
