@@ -340,5 +340,5 @@ mechanics:
     aliases: []
 
   - name: Yellow card
-    description: Riccardo's term for a mark a PC gets when downed (e.g. left down for a round, or hit for double max HP in one blow); exact rule uncertain
+    description: Riccardo's homebrew that replaces death saves, like soccer - you get a yellow card the first round down and a red card the second; massive damage of double max HP (plus one) in one hit gives an immediate yellow card
     aliases: []
