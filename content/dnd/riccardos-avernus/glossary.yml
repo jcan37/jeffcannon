@@ -16,7 +16,7 @@ pcs:
   
   - name: Apple
     player: Spencer
-    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senezhael; stayed with the rear guard on 2026-11-05
+    description: Halfling rogue; prays to Yondala and Dala Don; soul contracted to Senezhael; stayed with the rear guard on 2026-11-05; fell holding off Senezhael so the refugees could cross on 2026-11-13 ("not coming back, not in that form")
     aliases: []
   
   - name: Silas
@@ -78,6 +78,8 @@ npcs:
       - Seneszl
       - Sinizal
       - Cezanne
+      - Sansel
+      - Seneselle
 
   - name: Ikaia
     description: Vampire lord of this part of Elturel (CR 17, optional boss); executed the Nightbringer and Joven
@@ -91,6 +93,7 @@ npcs:
       - Icaya
       - Igaya
       - Ekaia
+      - Icaria
 
   - name: The Nightbringer
     description: Vampire who ran the Northern Dock; destroyed by Ikaya on 2026-10-17
@@ -165,6 +168,7 @@ npcs:
       - Eddie
       - Eddy
       - Vael
+      - Andre
     notes: Mouhssine's joke nickname is "Eddy"
 
   - name: The Mountain
@@ -182,6 +186,7 @@ npcs:
       - Alarabos
       - Alar
       - Alora
+      - Alana
 
   - name: Brenna
     description: Healer and apothecary at the keep
@@ -218,11 +223,13 @@ npcs:
 
   - name: Ressa Thorne
     description: Older woman who owns the Antlers and lives there like her father and grandfather did; the room goes quiet when she speaks
-    aliases: []
+    aliases:
+      - Nessa
 
   - name: Nella
     description: Resistance scout at the Antlers who keeps the coded map of eastern Elturel
-    aliases: []
+    aliases:
+      - Nellie
 
   - name: The crowned figure
     description: Unnamed being who rose from under the Northern Bridge on 2026-11-11; horned, crown-like helmet that Brad recognized, blazing yellow eyes, presence that frightens; told Silas "You have betrayed your patron, beast" and vanished with him in green smoke, leaving cream-white angel feathers striped with black
@@ -248,6 +255,29 @@ npcs:
     aliases:
       - Dane
       - Dane Voss
+      - Dave
+      - Damon
+      - Caron
+    notes: "On 2026-11-13 Elias insisted his name is Corin (heard as \"Caron\"), a friend of his, because only Corin would recognize the dagger"
+
+  - name: Raphael
+    description: Devil with Devil's Sight; Tink has a deal with him to hand over a contract for the souls of everyone in Elturel, and in return he brought Brad back (said on 2026-11-13); Tink called on him before his last stand
+    aliases: []
+
+  - name: Lord Ottmar
+    description: Regent of Elturel and head of the Ashen Government; gives speeches from the Shield Hall balcony; Ikaia wants the sunlight barriers at his residence removed
+    aliases:
+      - Otto Mar
+      - Otmar
+      - Ottom
+      - Akma
+      - Ottmar Vale
+    notes: "Surname \"Vale\" from 2026-11-05 is uncertain"
+
+  - name: Zoo
+    description: Bearded former party ally whom the party left to fight Cadmus alone; the bearded Ashen commander at the Maiden's Bridge on 2026-11-13 may resemble him (Riccardo said it doesn't necessarily mean it's him)
+    aliases: []
+    notes: Spelling as heard on tape; uncertain. Cadmus was also heard as "Cadius"
 
 places:
   - name: Elturel
@@ -303,6 +333,39 @@ places:
     aliases:
       - North Bridge
 
+  - name: Maiden's Bridge
+    description: Location 10; the small square just past the lava-fall bridge where the Ashen regiment staged to retake the Northern Bridge on 2026-11-13
+    aliases: []
+
+  - name: House of New Names
+    description: Location 11; walled, monastery-like compound with two fountains and a dead garden, guarded by devils; where captured people are taken
+    aliases: []
+
+  - name: Shield Hall
+    description: Location 13; heavily guarded Gothic hall of blackened marble, once the knights' temple and marked with the Ashen captain's insignia; Lord Ottmar speaks from its balcony
+    aliases:
+      - Helms Shield Hall
+      - Thorm's shield hall
+    notes: Full name uncertain on tape
+
+  - name: Residential district
+    description: Location 14; peaceful quarter of western Elturel where the refugees hid on 2026-11-13, reached through the sewers
+    aliases:
+      - the residential quarter
+
+  - name: Old cemetery
+    description: Location 15 in western Elturel; not directly accessible
+    aliases: []
+
+  - name: High Road
+    description: Path up the mountainside, the only way to the High Hall from this side of the city; expected to be heavily guarded
+    aliases: []
+
+  - name: Wizard's tower
+    description: Tower of an eccentric wizard down the west side of town, per Autumn; possibly one of the safe places seen from the keep
+    aliases:
+      - the tower of the mage
+
 items:
   - name: Sending stone
     description: Two-way stone from the Northern Dock watchtower; Freyr broke the rerouting rune on 2026-10-17; now with Brad
@@ -334,6 +397,26 @@ items:
     aliases:
       - Rod of the Pack Keeper
 
+  - name: Soul coin
+    description: Found by Freyr in a secret pocket of the Ashen captain's coat on 2026-11-13; holding it brings a dark presence and a chill; kept in the bag of holding
+    aliases: []
+
+  - name: Sapphire sending stone
+    description: Given by Ikaia on 2026-11-13 so the party can call on him once
+    aliases: []
+
+  - name: Scroll of Daylight
+    description: Altered scroll from the bridge crates; a 5-10 second flash anyone can read that repels vampires for about two turns
+    aliases: []
+
+  - name: Do not open vial
+    description: Metal vial with a face imprinted on it, labeled "Do not open"; taken by Freyr from an alchemist on 2026-11-13
+    aliases: []
+
+  - name: Radiant spear
+    description: Ashen commander's +1 spear with a sun-bright stone; +1d6 radiant against undead and no healing until their next turn; once per long rest a 20-ft line for 46 radiant plus blind (Riccardo's homebrew); still with the Ashen
+    aliases: []
+
 mechanics:
   - name: Corruption
     description: Riccardo's house point system; PCs gain corruption for bad deeds and lose it for good ones
@@ -341,4 +424,8 @@ mechanics:
 
   - name: Yellow card
     description: Riccardo's homebrew that replaces death saves, like soccer - you get a yellow card the first round down and a red card the second; massive damage of double max HP (plus one) in one hit gives an immediate yellow card
+    aliases: []
+
+  - name: Devil's Sight
+    description: Riccardo's homebrew; sees souls, not walls; only high-level devils have it (Raphael, Senezhael, Caduceus); soulless creatures such as Ikaia are invisible to it; has downsides
     aliases: []
