@@ -56,6 +56,10 @@ npcs:
     aliases:
       - Serafina
       - Seraphena
+
+  - name: Twitch
+    description: Freyr's shapeshifting familiar; summoned as a quasit on 2026-11-13 (was a pseudodragon on 2026-11-11)
+    aliases: []
   
   - name: Riccardo
     description: Dungeon Master
@@ -210,7 +214,7 @@ npcs:
     notes: "Previously transcribed as 'Amber Leaf'; canonical spelling is Emberleaf"
 
   - name: Lady Cerys
-    description: Ikaia's right hand; very undead, with jet-black hair and purple eyes; the bridge is to be handed to her
+    description: Ikaia's companion; very undead, with jet-black hair and purple eyes; was at Ikaia's side when the bridge was handed over on 2026-11-13
     aliases: []
 
   - name: Thomas
@@ -274,10 +278,16 @@ npcs:
       - Ottmar Vale
     notes: "Surname \"Vale\" from 2026-11-05 is uncertain"
 
-  - name: Zoo
-    description: Bearded former party ally whom the party left to fight Cadmus alone; the bearded Ashen commander at the Maiden's Bridge on 2026-11-13 may resemble him (Riccardo said it doesn't necessarily mean it's him)
-    aliases: []
-    notes: Spelling as heard on tape; uncertain. Cadmus was also heard as "Cadius"
+  - name: Zhu
+    description: Bearded former ally whom the party left behind when Cadeus killed him; the bearded Ashen commander at the Maiden's Bridge on 2026-11-13 may be him (Riccardo said it doesn't necessarily mean it's him)
+    aliases:
+      - Zoo
+
+  - name: Cadeus
+    description: Killed Zhu while the party left him behind
+    aliases:
+      - Cadmus
+      - Cadius
 
 places:
   - name: Elturel
@@ -341,12 +351,14 @@ places:
     description: Location 11; walled, monastery-like compound with two fountains and a dead garden, guarded by devils; where captured people are taken
     aliases: []
 
-  - name: Shield Hall
-    description: Location 13; heavily guarded Gothic hall of blackened marble, once the knights' temple and marked with the Ashen captain's insignia; Lord Ottmar speaks from its balcony
-    aliases:
-      - Helms Shield Hall
-      - Thorm's shield hall
-    notes: Full name uncertain on tape
+  - name: High Hall
+    description: Location 22; the High Road leads there; expected to be heavily guarded
+    aliases: []
+  
+  - name: Location 13
+    description: Possibly Lord Ottmar's residence; Gothic building of blackened marble, heavily guarded, with a balcony where Lord Ottmar, Regent of Elturel, gives speeches
+    aliases: []
+    notes: Full name still unknown
 
   - name: Residential district
     description: Location 14; peaceful quarter of western Elturel where the refugees hid on 2026-11-13, reached through the sewers
@@ -358,7 +370,7 @@ places:
     aliases: []
 
   - name: High Road
-    description: Path up the mountainside, the only way to the High Hall from this side of the city; expected to be heavily guarded
+    description: Path up the mountainside, the only way to the High Hall (location 22) from this side of the city; expected to be heavily guarded
     aliases: []
 
   - name: Wizard's tower
@@ -414,7 +426,7 @@ items:
     aliases: []
 
   - name: Radiant spear
-    description: Ashen commander's +1 spear with a sun-bright stone; +1d6 radiant against undead and no healing until their next turn; once per long rest a 20-ft line for 46 radiant plus blind (Riccardo's homebrew); still with the Ashen
+    description: Ashen commander's (possibly Zhu's) +1 spear with a sun-bright stone; +1d6 radiant against undead and no healing until their next turn; once per long rest a 20-ft line for 46 radiant plus blind (Riccardo's homebrew); still with the Ashen
     aliases: []
 
 mechanics:
