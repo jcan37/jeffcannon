@@ -1,46 +1,48 @@
 ---
-updated: "2026-11-03"
-through: "2026-11-02"
+updated: "2026-11-15"
+through: "2026-11-15"
 ---
 
 # Slut Dragons: the story so far
 
 ## Where things stand
-The party **killed Harbin**. Tanner threw his trident up the chimney Harbin was hiding in, and **Penny is back** unharmed. They looted Harbin's rooms (500 gp, potions and a magical 13-card deck) and hired the Sun God and Gorrin for one quest against the dragon. Then they walked out of the burning Townmaster's Hall carrying Harbin's head. Phandalin fell into panic and looting, and Halia vanished. The session ended with **Cryovain** landing in front of them and demanding all their gold. **Aracheus is still unconscious inside the burning hall.**
+Phandalin is in ruins. The Townmaster's Hall burned to rubble, the dragon iced and ate parts of the town, and the survivors fled to **Adabra's tower at Umbrage Hill**. Those refugees now know Strider as one of the people who burned the town. Gorrin called the party to **Axholm**, a dwarven fortress about two hours south of Umbrage Hill. When they arrived, he didn't answer his rock phone, but there was a hole he had bashed through the portcullis. Then **Cryovain** swooped in. Aracheus cast **Sleep** on him, and the session ended with **the dragon asleep outside the gate for about eight more rounds**. The party is inside the fortress, heading down a tunnel past a ruined east hall that reeks of death.
 
 ## The party
-- **Razageth** (Mike): dragonborn sorcerer, level 4. He has Spell Sniper, Suggestion, Witch Bolt, Chromatic Orb and Shield. His shard (name uncertain) boosts his damage and gives him advantage on Arcana, but hits him back with psychic damage. Cryovain has his time-travel wrist guard. Has 125 gp, a Potion of Greater Healing (which he jokingly claimed to keep) and the unidentified 13-card deck.
-- **Tanner** (Cam): gnome barbarian 2 / bard 2, level 4, max HP 39. Jeff picked placeholder Expertise (Intimidation, Perception) and Jack of All Trades, and Cam can change them. Fights with rage and Reckless. He killed Harbin and rescued his baby **Penny**. He has 125 gp and a Potion of Healing.
-- **Aracheus** (Thomas): dragonborn druid with his pet spider Varasst, level 4. He has Shadow Touched, Spike Growth, Flame Blade and Wild Shape, and slipped the cuffs as a cat. He killed Maveth. Has a half-finished brewed potion and 125 gp. He was knocked unconscious on 11/2 and is still in the burning hall.
-- **Strider** (Brendan): tiefling ranger, level 4, with the new Skulker feat (10 ft blindsight), Hail of Thorns and Goodberry. His true name is Mike Boland, and a homebrew item lets him smite once a day if he reveals it. His dog **Matt Boland** is back. He carries the guards' rock phones. He has 125 gp and a Potion of Healing.
-- Every PC has 2 evil points from killing the dwarves. Each one is −1 on Charisma checks except Intimidation.
+- **Razageth** (Mike): dragonborn sorcerer (lightning), level 4. He has Spell Sniper, Suggestion, Command, Witch Bolt, Chromatic Orb, Shield, Mage Hand and Alter Self. His shard boosts his damage and Arcana but hits him back with psychic damage. Cryovain has his time-travel wrist guard. He holds the Potion of Greater Healing (the party knows) and is now **attuned to the 13-card deck**: he draws three, Jeff names the faces, and he picks one blind, for a result that could be great or terrible. Disguised as "Anaton" (spelling uncertain), he paid Adabra 100 gp and has about 25 gp left.
+- **Tanner** (Cam): gnome barbarian 2 / bard 2, level 4, max HP 39. He killed Harbin and rescued **Penny**, who is with him. He has 125 gp and a Potion of Healing. Cam missed 11/15, so Tanner ran to the tavern and rejoins wherever the party is.
+- **Aracheus** (Thomas): acid dragonborn druid, level 4, with his pet spider Varasst. He has Shadow Touched, Spike Growth, Flame Blade, Wrathful Smite, Misty Step, Sleep and Wild Shape (cat, giant badger). He can craft potions with his herbalism kit and is brewing a **Potion of Cold Resistance** (five days of work). He has 115 gp.
+- **Strider** (Brendan): tiefling ranger, level 4, with Skulker, Hail of Thorns, Goodberry and Thaumaturgy, plus his dog **Matt Boland**. His true name is Mike Boland, and his signet ring smites when he says it. He just noticed his **Cloak of Billowing**. He carries all the party's rock phones, has a Potion of Healing and about 115 gp, and got another evil point for stabbing a refugee.
+- Every PC has at least 2 evil points (Strider more). Each one is −1 on persuasion-type Charisma rolls. Killing or harming innocents adds points, and saving innocents removes them.
+- Each PC gets a new armory weapon of their choice (to be picked) and one ration.
 
 ## Key people
-- **Harbin Wester**: Townmaster of Phandalin. He hid in a chimney with Penny, tried to bargain, and was **killed by Tanner on 11/2**. His head is on a stake outside the hall.
-- **Mark Boland**: Strider's father, a three-armed assassin. He knocked the party out on 10/18 and left town. Jeff: *"There is more to that story... You were deceived."*
-- **The Sun God**: glowing spear fighter who heals himself. He was working for Harbin's pay. Now he's **hired** for one dragon quest at 100 gp and can be called by rock phone.
-- **Gorrin**: the goliath jailer who escaped the burning cell. He's hired alongside the Sun God and gave the party a rock phone.
-- **Halia Thornton**: runs the Miners' Exchange. Her deal was to take out Harbin quietly, after which she'd clear their bounty. She disappeared after the party paraded his head, and Jeff says they may never see her again.
-- **Adabra Gwynn**: midwife at the Umbrage Hill windmill. She no longer sells them potions.
-- **Cryovain**: the white dragon. He hates dragonborn and keeps his hoard (Razageth's wrist guard and the gold he swallowed) in his lair. Now he's in Phandalin demanding their gold.
-- **Alderleaf**: halfling farmer, still tied up in his shed.
+- **Cryovain**: young white dragon who hates dragonborn and wants their gold. Razageth's Command sent him off, but he came back at Axholm and is now asleep at the gate. His lair holds Razageth's wrist guard and the party's old gold.
+- **Gorrin**: the stone goliath the party hired with the Sun God for one dragon quest at 100 gp each. He summoned the party to Axholm ("might be a little haunted"), came there with a group of people, and broke in. Now he won't pick up, and Strider has threatened him by voicemail.
+- **The Sun God**: glowing spear fighter, hired alongside Gorrin. Not seen since 11/2.
+- **Adabra Gwynn**: herbalist at the Umbrage Hill tower, sheltering Phandalin's refugees. She's the only source of healing potions. She threw Strider out and revived the refugee he stabbed, but she sold "Anaton" the cold-resistance ingredients.
+- **Alderleaf** ("Dragon Bait"): halfling farmer who escaped the shed. Strider has his shirt and suspects Halia helped him.
+- **Halia Thornton**: Miners' Exchange boss. She vanished after the party paraded Harbin's head, and the bounty is probably not cleared.
+- **Mark Boland**: Strider's father, a three-armed assassin. Jeff: *"You were deceived."*
+- **Harbin Wester**: Phandalin's townmaster, killed by Tanner on 11/2.
 
 ## Sessions
-- **The Dwarf Temple (2026-08-30):** The party cleared orcs and ochre jellies in the temple of Amador (uncertain) and killed their dwarf guides. Prying out the green gem blew up a statue.
-- **Green Gems and a Bounty (2026-09-06):** They took 15 green gems. Halia warned them of Harbin's 500 gp bounty. Tanner turned himself in, then escaped.
-- **The Manticore and the Vault (2026-09-24):** Tanner and Strider failed to crack the Exchange vault, and Halia nearly killed them. Razageth and Aracheus paid off a manticore at Adabra's windmill.
-- **Cryovain Takes His Toll (2026-10-04):** Cryovain dropped Razageth and Aracheus, ate their gold and took the wrist guard. Tanner and Strider kidnapped Alderleaf. The party took Halia's deal.
-- **Strider's Father (2026-10-18):** The hidden guard was Mark Boland. Strider revealed his true name to smite, then spared his father. Mark and the Sun God knocked out the whole party.
-- **Jailbreak and Fire (2026-10-25):** The party woke in Harbin's prison. Aracheus slipped out as a cat and Razageth's Suggestion opened the cell. They killed Maveth, set the hall on fire and met the Sun God on the top floor. The whole party reached level 4.
-- **Baby in the Chimney (2026-11-02):** The Sun God fled. The party looted 500 gp, potions and a 13-card deck. Tanner killed Harbin in the chimney and rescued Penny, and the party hired Gorrin and the Sun God. Phandalin panicked, Halia vanished, and Cryovain arrived for their gold.
+- **The Dwarf Temple (2026-08-30):** The party cleared orcs and ochre jellies and killed their dwarf guides. Prying out the green gem blew up a statue.
+- **Green Gems and a Bounty (2026-09-06):** They took 15 green gems. Halia warned them about Harbin's 500 gp bounty. Tanner turned himself in, then escaped.
+- **The Manticore and the Vault (2026-09-24):** The Exchange vault break-in failed. Razageth and Aracheus paid off a manticore at Adabra's.
+- **Cryovain Takes His Toll (2026-10-04):** Cryovain ate their gold and took the wrist guard. Alderleaf was kidnapped. The party took Halia's deal.
+- **Strider's Father (2026-10-18):** The hidden guard was Mark Boland, and Strider spared him. Mark and the Sun God knocked out the party.
+- **Jailbreak and Fire (2026-10-25):** The party escaped Harbin's prison, killed Maveth and set the hall on fire. Everyone reached level 4.
+- **Baby in the Chimney (2026-11-02):** Tanner killed Harbin and rescued Penny. They looted 500 gp and the deck and hired Gorrin and the Sun God. Cryovain arrived for their gold.
+- **The Dragon Sleeps at Axholm (2026-11-15):** Razageth Commanded Cryovain away. The party hid in the Exchange, where the deck was attuned and the vault proved magically sealed. They looted ruined Phandalin and failed with Adabra as Strider but succeeded as "Anaton." At Axholm, Aracheus put Cryovain to sleep.
 
 ## Open threads
-- Cryovain is demanding all their gold.
-- Aracheus is unconscious in the burning hall.
-- Gorrin and the Sun God are hired and on call by rock phone.
-- Halia is gone and the bounty is probably not cleared. Phandalin is in chaos with no townmaster.
-- The unidentified 13-card deck.
-- Cryovain's lair and the wrist guard.
-- Mark Boland's real story.
-- The 15 green gems. The Exchange vault opens with a spell.
-- Alderleaf in the shed. Aracheus's half-brewed potion.
+- Cryovain asleep at Axholm's gate, about eight rounds left.
+- Where is Gorrin, and what is down the death-smelling tunnel?
+- Five days of brewing for the cold-resistance potion. More ingredients could be foraged.
+- The attuned 13-card deck, unused.
+- Alderleaf's escape. Adabra and the refugees know Strider.
+- The Miners' Exchange vault behind a magical barrier. The 15 green gems.
+- Halia gone and the bounty likely standing.
+- Cryovain's lair and the wrist guard. Mark Boland's real story.
+- The Sun God's whereabouts.
