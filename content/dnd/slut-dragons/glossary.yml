@@ -8,6 +8,9 @@ pcs:
       - Razzageth
       - Razgath
       - Razzagath
+      - Raziel
+      - Razz
+    notes: Disguised with Alter Self as "Anaton" (sexy Sauron persona, spelling uncertain) on 2026-11-15
   
   - name: Tanner
     player: Cam
@@ -26,6 +29,9 @@ pcs:
       - Arrakis
       - Raxis
       - Arceus
+      - Arakis
+      - Erycias
+      - Eric Hayes
     notes: Has pet spider Varasst
   
   - name: Strider
@@ -37,7 +43,7 @@ pcs:
       - Mike Boland
       - Mike Ballin
       - Mike Poland
-    notes: Mike Boland is Strider's secret name (NOT player Mike). Son of Mark Boland. Homebrew magic item: smite 1/day if he reveals his true identity (Jeff 2026-10-19).
+    notes: "Mike Boland is Strider's secret name (NOT player Mike). Son of Mark Boland. Homebrew magic item: smite 1/day if he reveals his true identity (Jeff 2026-10-19)."
 
 npcs:
   - name: Penny
@@ -59,6 +65,10 @@ npcs:
       - Baros
       - Barras
       - Brass
+      - Varras
+      - Varost
+      - Vorost
+      - Ross
   
   - name: Matt Boland
     description: Strider's beast companion dog (died 2026-10-04; revived and killed again 2026-10-18). Has a hellhound token
@@ -83,6 +93,9 @@ npcs:
     aliases:
       - Adabra Gwen
       - Abadra
+      - A Dabra
+      - Haddabra
+      - Abra Cadabra lady
   
   - name: Harbin Wester
     description: Townmaster of Phandalin
@@ -102,6 +115,8 @@ npcs:
       - Cryovane
       - Cryo-vain
       - Cryo Vain
+      - Kraven
+      - Cryobane
   
   - name: Alderleaf
     description: Halfling farmer in Phandalin
@@ -123,6 +138,9 @@ npcs:
     description: Goliath jailer in the Townmaster's Hall basement (crossbow, stone skin). Locked in his burning cell 2026-10-25
     aliases:
       - Goran
+      - Goren
+      - Gorin
+    notes: Hired 2026-11-02 with the Sun God. Called the party to Axholm 2026-11-15, then stopped answering his rock phone
 
   - name: Maveth
     description: Stone veteran goliath guard at the Townmaster's Hall. Doubles in size, stone-skin reaction. Killed by Aracheus 2026-10-25
@@ -143,14 +161,52 @@ places:
       - Phandalyn
       - Fandolin
       - Vandalin
+      - Pandolyn
+      - Fanlin
 
   - name: Townmaster's Hall
     description: Phandalin hall where Harbin lives since his house burned; has a cellar and a prison
     aliases:
       - Townmasters Hall
 
+  - name: Miners' Exchange
+    description: Halia's exchange in Phandalin; one floor plus a basement vault sealed by a magical barrier
+    aliases:
+      - Miner's Exchange
+      - miners exchange
+
+  - name: Barthen's Provisions
+    description: Phandalin general store, deserted after the dragon attack (2026-11-15)
+    aliases:
+      - Barthun's Provisions
+
+  - name: Umbrage Hill
+    description: Hill with Adabra's tower; Phandalin's refugees gathered there 2026-11-15
+    aliases:
+      - Umbridge Hill
+      - Umberchill
+
+  - name: Axholm
+    description: Dwarven fortress at the base of a dark gray mountain, south of Umbrage Hill; rusted portcullis with a hole bashed through it, loaded crossbow slits, great hall, ruined east hall
+    aliases:
+      - Axe home
+      - Axe house
+      - Axe's home
+      - Axel
+
 items:
   - name: Signet ring of House Boland
     description: Strider's homebrew ring; smite on a hit when he says his true name
     aliases:
       - Mike Bull insignit
+
+  - name: Cloak of Billowing
+    description: Strider's cloak; bonus action to make it billow dramatically for one minute
+    aliases:
+      - cloak of billowing
+
+  - name: Potion of Cold Resistance
+    description: Halves cold damage. Ingredients 100 gp each from Adabra; five days of brewing (Aracheus, herbalism kit)
+    aliases:
+      - frost potion
+      - frost resistance potion
