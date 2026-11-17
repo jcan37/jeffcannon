@@ -10,7 +10,7 @@ pcs:
       - Razzagath
       - Raziel
       - Razz
-    notes: Disguised with Alter Self as "Anaton" (sexy Sauron persona, spelling uncertain) on 2026-11-15
+    notes: Disguised with Alter Self as "Annatar" (sexy Sauron persona, bearer of gifts) on 2026-11-15
   
   - name: Tanner
     player: Cam
@@ -31,7 +31,6 @@ pcs:
       - Arceus
       - Arakis
       - Erycias
-      - Eric Hayes
     notes: Has pet spider Varasst
   
   - name: Strider
@@ -97,6 +96,9 @@ npcs:
       - Haddabra
       - Abra Cadabra lady
   
+  - name: Linene Graywind
+    description: Armory owner in Phandalin who told the party to take weapons and leave after Cryovain's attack
+  
   - name: Harbin Wester
     description: Townmaster of Phandalin
     aliases:
@@ -140,7 +142,7 @@ npcs:
       - Goran
       - Goren
       - Gorin
-    notes: Hired 2026-11-02 with the Sun God. Called the party to Axholm 2026-11-15, then stopped answering his rock phone
+    notes: Hired 2026-11-02 with the Sun God. Called the party to Axeholm 2026-11-15, then stopped answering his rock phone
 
   - name: Maveth
     description: Stone veteran goliath guard at the Townmaster's Hall. Doubles in size, stone-skin reaction. Killed by Aracheus 2026-10-25
@@ -186,13 +188,14 @@ places:
       - Umbridge Hill
       - Umberchill
 
-  - name: Axholm
+  - name: Axeholm
     description: Dwarven fortress at the base of a dark gray mountain, south of Umbrage Hill; rusted portcullis with a hole bashed through it, loaded crossbow slits, great hall, ruined east hall
     aliases:
       - Axe home
       - Axe house
       - Axe's home
       - Axel
+      - Axholm
 
 items:
   - name: Signet ring of House Boland
