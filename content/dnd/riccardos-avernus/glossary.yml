@@ -11,8 +11,9 @@ pcs:
   
   - name: Tink
     player: Darrel
-    description: Battle Master fighter and cartographer; carries Hellreaver; Commanding Presence and Tactical Mind
-    aliases: []
+    description: Battle Master fighter and cartographer; carried Hellreaver; Commanding Presence and Tactical Mind; hanged by the Ashen at the House of New Names on 2026-11-18 (dead); Raphael has claimed his sword, and Riccardo says he is now a full-blown devil
+    aliases:
+      - Tank
   
   - name: Apple
     player: Spencer
@@ -21,9 +22,19 @@ pcs:
   
   - name: Silas
     player: Spencer
-    description: Circle of the Moon druid (new PC as of 2026-11-05); introduced already wearing Ashen colors on the Northern Bridge, then turned on the Ashen Guard; on 2026-11-11 taken (in snake form) by a crowned figure who said he had betrayed his patron
-    aliases: []
-    notes: Spelling as heard on tape; uncertain. Apple remains Spencer's other character
+    description: Circle of the Moon druid (new PC as of 2026-11-05); introduced already wearing Ashen colors on the Northern Bridge, then turned on the Ashen Guard; on 2026-11-11 taken (in snake form) by a crowned figure who said he had betrayed his patron; found on 2026-11-18 in an anti-magic cell at the House of New Names. Says he was sent to hell as a child about 500 years ago, fought the Hellriders, and has hunted bounties for Zariel for about a century (his current job is to kill Ikaia); his soul is bound to someone unknown
+    aliases:
+      - Silas Mitrush
+    notes: Spelling as heard on tape; uncertain. Apple remains Spencer's other character. Surname heard once as "Mitrush" on 2026-11-18 (uncertain)
+  
+  - name: Lyrian
+    player: Darrel
+    description: High-elf Glamour bard (new PC as of 2026-11-18, level 7, 31 max HP); traveling performer imprisoned at the House of New Names for refusing to serve the Ashen; his viol was taken
+    aliases:
+      - Larian
+      - Lydia
+      - Leorio
+    notes: Spelling as heard on tape; uncertain. "Leorio" was a table joke (Hunter x Hunter)
   
   - name: Brad
     player: Mouhssine
@@ -37,6 +48,8 @@ pcs:
       - Broderick Reinhardt
       - Branlyk
       - Bradley
+      - Braddock
+      - Morson
       - Mousse
       - Moushun
       - Musen
@@ -58,8 +71,11 @@ npcs:
       - Seraphena
 
   - name: Twitch
-    description: Freyr's shapeshifting familiar; summoned as a quasit on 2026-11-13 (was a pseudodragon on 2026-11-11)
-    aliases: []
+    description: Freyr's shapeshifting familiar; summoned as a quasit on 2026-11-13 and again on 2026-11-18 (was a pseudodragon on 2026-11-11); scouts invisibly or as a spider
+    aliases:
+      - closet
+      - quads
+    notes: The aliases closet and quads are mishearings of quasit
   
   - name: Riccardo
     description: Dungeon Master
@@ -143,6 +159,9 @@ npcs:
     description: God of the Knights of Elturel; Brad prays to him
     aliases:
       - Latander
+      - Latanda
+      - Latveria
+      - lavender
       - Lethander
       - Latande
       - Llentender
@@ -165,7 +184,7 @@ npcs:
       - Dala
 
   - name: Sir Edric Vale
-    description: Knight commander of the Keep of the Knights; made the keep's deal with Ikaya
+    description: Knight commander of the Keep of the Knights; made the keep's deal with Ikaya; captured and stripped at the House of New Names, refused the waters; freed with the party on 2026-11-18 but has "lost faith" in Brad
     aliases:
       - Eldrick
       - Eric
@@ -176,7 +195,7 @@ npcs:
     notes: Mouhssine's joke nickname is "Eddy"
 
   - name: The Mountain
-    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale; no known name. Called in as an ally on the Northern Bridge on 2026-11-11 (136 HP, AC 18, +10 to hit, 3d6+7 greatsword, Sweep, shoulder charge, Interpose)
+    description: Silent seven-foot knight in full plate who shadows Sir Edric Vale; no known name. Called in as an ally on the Northern Bridge on 2026-11-11 (136 HP, AC 18, +10 to hit, 3d6+7 greatsword, Sweep, shoulder charge, Interpose); drank the Styx waters at the House of New Names and turned on 2026-11-18; now speaks ("Born anew"), resists magic, and kneels at the fountain with three other turned knights
     aliases:
       - Mikerman
       - the juggernaut
@@ -250,9 +269,15 @@ npcs:
       - the wizard
 
   - name: Zariel
-    description: Named by Riccardo on 2026-11-11 as the campaign's final boss (spells up to DC 30, +18 to hit); Lulu was likely her old pet
+    description: Named by Riccardo on 2026-11-11 as the campaign's final boss (spells up to DC 30, +18 to hit); Lulu was likely her old pet; hailed by the Ashen as "our Queen and Eternal" (2026-11-18); gave Silas the job of killing Ikaia
     aliases:
       - Ariel
+      - Zion
+      - Zario
+      - Zarial
+      - Zerial
+      - Zaryel
+      - Zuri
 
   - name: Dain
     description: The frantic courier from 2026-11-03; on 2026-11-05 revealed as Corin Lyle answering as "Dane Voss" with Ashen loyalty and an infernal chain-mark on his soul
@@ -289,6 +314,24 @@ npcs:
       - Cadmus
       - Cadius
 
+  - name: Registrar Sen
+    description: Woman at the House of New Names who holds the key to the upstairs door and keeps an office upstairs; the cell guard called her "the crazy bitch" (2026-11-18)
+    aliases:
+      - Master Register Sen
+      - Register Sen
+      - Raja Sen
+    notes: Spelling uncertain; Riccardo spelled it as something like "S-E-W-N"
+
+  - name: Ilaria
+    description: Named by a guard at the House of New Names as someone who would want to attend a prisoner's "rite of passage" (2026-11-18); may be the same person as Registrar Sen
+    aliases: []
+    notes: Spelling as heard; uncertain
+
+  - name: The Hellriders
+    description: Riders who rode into hell when Zariel came down; Brad's ancestors; Silas fought against them among the devils' armies
+    aliases:
+      - hell riders
+
 places:
   - name: Elturel
     description: Holy city dragged into Avernus
@@ -297,6 +340,8 @@ places:
       - Elterel
       - El Torre
       - Altria
+      - El Tural
+      - El Torrel
       - Elturen
       - Meltarel
   
@@ -304,6 +349,8 @@ places:
     description: First layer of the Nine Hells
     aliases:
       - Avernis
+      - Verdas
+      - Verna
 
   - name: Keep of the Knights
     description: Lathander's knights' keep in Elturel; west gate tower lit, east tower crumbled
@@ -378,6 +425,10 @@ places:
     aliases:
       - the tower of the mage
 
+  - name: Chamber of the waters
+    description: Hall in the House of New Names with a fountain of flowing River Styx water, an overlooking balcony with spectator benches, and turned knights kneeling in prayer; where prisoners are "born anew"
+    aliases: []
+
 items:
   - name: Sending stone
     description: Two-way stone from the Northern Dock watchtower; Freyr broke the rerouting rune on 2026-10-17; now with Brad
@@ -427,6 +478,16 @@ items:
 
   - name: Radiant spear
     description: Ashen commander's (possibly Zhu's) +1 spear with a sun-bright stone; +1d6 radiant against undead and no healing until their next turn; once per long rest a 20-ft line for 46 radiant plus blind (Riccardo's homebrew); still with the Ashen
+    aliases: []
+
+  - name: Styx waters
+    description: Prepared River Styx water the Ashen make prisoners drink at the House of New Names; erases a person's identity and leaves a blank slate
+    aliases:
+      - the waters
+      - river sticks
+
+  - name: Anti-magic metal
+    description: Material lining Silas's cell bars and the iron door's keyhole at the House of New Names; touching it ends illusions, wild shape and other magic; also made into protective rings
     aliases: []
 
 mechanics:
